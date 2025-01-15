@@ -8,14 +8,14 @@ oesoeb: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept systematik:tegami, systematik:green .
+    skos:hasTopConcept oesoeb:tegami, oesoeb:green .
 
-systematik:tegami a skos:Concept ;
+oesoeb:tegami a skos:Concept ;
     skos:prefLabel "tegami"@de, "tegami"@en ;
     skos:altLabel "Lila"@de, "purple"@en ;
     skos:topConceptOf oesoeb: .
 
-systematik:green a skos:Concept ;
+oesoeb:green a skos:Concept ;
     skos:prefLabel "green"@en, "Grün"@de ;
     skos:narrower systematik:grassgreen ;
     skos:topConceptOf oesoeb: .
