@@ -10,8 +10,8 @@ colour: a skos:ConceptScheme ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept colour:violet, colour:green .
 
-colour:violet a skos:Concept ;
-    skos:prefLabel "Violett"@de, "violet"@en ;
+colour:tegami a skos:Concept ;
+    skos:prefLabel "tegami"@de, "tegami"@en ;
     skos:altLabel "Lila"@de, "purple"@en ;
     skos:topConceptOf colour: .
 
