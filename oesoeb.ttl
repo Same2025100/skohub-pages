@@ -1,1 +1,25 @@
+@prefix oesoeb: <https://example.org/oesoeb/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+oesoeb: a skos:ConceptScheme ;
+    dct:title "Österreichische Systematik Öffentlicher Bibliotheken"@de, "Austrian classification for public libraries"@en ;
+    dct:creator "Hans Dampf"@de ;
+    dct:created "2021-11-02"^^xsd:date ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept systematik:tegami, systematik:green .
+
+systematik:tegami a skos:Concept ;
+    skos:prefLabel "tegami"@de, "tegami"@en ;
+    skos:altLabel "Lila"@de, "purple"@en ;
+    skos:topConceptOf oesoeb: .
+
+systematik:green a skos:Concept ;
+    skos:prefLabel "green"@en, "Grün"@de ;
+    skos:narrower systematik:grassgreen ;
+    skos:topConceptOf oesoeb: .
+    
+systematik:grassgreen a skos:Concept ;
+    skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
+    skos:inScheme systematik: .
