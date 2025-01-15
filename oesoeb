@@ -3,23 +3,23 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-colour: a skos:ConceptScheme ;
+oesoeb: a skos:ConceptScheme ;
     dct:title "Österreichische Systematik Öffentlicher Bibliotheken"@de, "Austrian classification for public libraries"@en ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept colour:violet, colour:green .
 
-colour:tegami a skos:Concept ;
+oesoeb:tegami a skos:Concept ;
     skos:prefLabel "tegami"@de, "tegami"@en ;
     skos:altLabel "Lila"@de, "purple"@en ;
     skos:topConceptOf colour: .
 
-colour:green a skos:Concept ;
+oesoeb:green a skos:Concept ;
     skos:prefLabel "green"@en, "Grün"@de ;
     skos:narrower colour:grassgreen ;
     skos:topConceptOf colour: .
     
-colour:grassgreen a skos:Concept ;
+oesoeb:grassgreen a skos:Concept ;
     skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
     skos:inScheme colour: .
