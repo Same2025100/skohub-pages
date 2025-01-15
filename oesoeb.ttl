@@ -20,6 +20,6 @@ oesoeb:green a skos:Concept ;
     skos:narrower systematik:grassgreen ;
     skos:topConceptOf oesoeb: .
     
-systematik:grassgreen a skos:Concept ;
+oesoeb:grassgreen a skos:Concept ;
     skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
-    skos:inScheme systematik: .
+    skos:inScheme oesoeb: .
