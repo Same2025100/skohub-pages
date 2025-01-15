@@ -10,7 +10,7 @@ colour: a skos:ConceptScheme ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept colour:lilla, colour:green .
 
-colour:violet a skos:Concept ;
+colour:lilla a skos:Concept ;
     skos:prefLabel "Lilla"@de, "lilla"@en ;
     skos:altLabel "Lila"@de, "purple"@en ;
     skos:topConceptOf colour: .
