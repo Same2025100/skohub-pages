@@ -8,7 +8,7 @@ oesoeb: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept oesoeb:Kinder, oesoeb:green .
+    skos:hasTopConcept oesoeb:Kinder, oesoeb:green, oesoeb:j1 .
 
 oesoeb:Kinder a skos:Concept ;
     skos:prefLabel "tegami"@de, "tegami"@en ;
@@ -23,3 +23,8 @@ oesoeb:green a skos:Concept ;
 oesoeb:grassgreen a skos:Concept ;
     skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
     skos:inScheme oesoeb: .
+
+oesoeb:j1 a skos:Concept ;
+    skos:prefLabel "j1"@en, "j1"@de ;
+    skos:narrower oesoeb:j11 ;
+    skos:topConceptOf oesoeb: .
