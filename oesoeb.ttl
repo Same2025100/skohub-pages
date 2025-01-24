@@ -8,16 +8,17 @@ oesoeb: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept oesoeb:Kinder, oesoeb:green, oesoeb:j1 .
+    skos:hasTopConcept oesoeb:j, oesoeb:ja, oesoeb:j1 .
 
-oesoeb:Kinder a skos:Concept ;
-    skos:prefLabel "tegami"@de, "tegami"@en ;
-    skos:altLabel "Kinder"@de, "Kinder"@en ;
+oesoeb:j a skos:Concept ;
+    skos:prefLabel "Kinder- und Jugendmedien"@de, "Children’s and young adult media"@en ;
+    skos:altLabel "J Kinder- und Jugendliteratur"@de, "J Children's and youth literature"@en ;
     skos:topConceptOf oesoeb: .
 
-oesoeb:green a skos:Concept ;
-    skos:prefLabel "green"@en, "Grün"@de ;
-    skos:broader oesoeb:Kinder ;
+oesoeb:ja a skos:Concept ;
+    skos:prefLabel "Allgemeines"@de, "General"@en ;
+    skos:altLabel "JA Allgemeines"@de, "JA General"@en ;
+    skos:broader oesoeb:j ;
     skos:narrower oesoeb:grassgreen ;
     skos:topConceptOf oesoeb: .
     
