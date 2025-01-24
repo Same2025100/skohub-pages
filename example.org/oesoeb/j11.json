@@ -14,13 +14,6 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://example.org/oesoeb/j1",
-    "prefLabel": {
-      "en": "j1",
-      "de": "j1"
-    }
-  },
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",

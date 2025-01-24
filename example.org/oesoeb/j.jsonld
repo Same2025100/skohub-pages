@@ -20,6 +20,20 @@
         "en": "General",
         "de": "Allgemeines"
       }
+    },
+    {
+      "id": "https://example.org/oesoeb/jb",
+      "prefLabel": {
+        "en": "Biographies for children and young adults",
+        "de": "Biografien für Kinder und Jugendliche"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jc",
+      "prefLabel": {
+        "en": "Comics and Graphic novels",
+        "de": "Comics und Graphic Novels"
+      }
     }
   ],
   "inScheme": [

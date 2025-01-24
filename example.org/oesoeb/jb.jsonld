@@ -1,19 +1,25 @@
 {
-  "id": "https://example.org/oesoeb/j1",
+  "id": "https://example.org/oesoeb/jb",
   "type": "Concept",
   "prefLabel": {
-    "en": "j1",
-    "de": "j1"
+    "en": "Biographies for children and young adults",
+    "de": "Biografien für Kinder und Jugendliche"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/j11",
-      "prefLabel": {
-        "en": "j11",
-        "de": "j11"
-      }
+  "altLabel": {
+    "en": [
+      "JB Biographies for children and young adults"
+    ],
+    "de": [
+      "JB Biografien für Kinder und Jugendliche"
+    ]
+  },
+  "broader": {
+    "id": "https://example.org/oesoeb/j",
+    "prefLabel": {
+      "en": "Children’s and young adult media",
+      "de": "Kinder- und Jugendmedien"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",
@@ -26,15 +32,6 @@
   "inSchemeAll": [
     {
       "id": "https://example.org/oesoeb/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/oesoeb/",
-      "title": {
-        "en": "Austrian classification for public libraries",
-        "de": "Österreichische Systematik Öffentlicher Bibliotheken"
-      }
     }
   ],
   "@context": {
