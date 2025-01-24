@@ -1,15 +1,23 @@
 {
-  "id": "https://example.org/oesoeb/j111",
+  "id": "https://example.org/oesoeb/jcg",
   "type": "Concept",
   "prefLabel": {
-    "en": "j111",
-    "de": "j111"
+    "en": "Graphic Novels",
+    "de": "Graphic Novels"
+  },
+  "altLabel": {
+    "en": [
+      "JC.G Graphic Novels"
+    ],
+    "de": [
+      "JC.G Graphic Novels"
+    ]
   },
   "broader": {
-    "id": "https://example.org/oesoeb/j11",
+    "id": "https://example.org/oesoeb/jc",
     "prefLabel": {
-      "en": "j11",
-      "de": "j11"
+      "en": "Comics and Graphic novels",
+      "de": "Comics und Graphic Novels"
     }
   },
   "inScheme": [

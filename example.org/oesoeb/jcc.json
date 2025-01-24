@@ -1,19 +1,25 @@
 {
-  "id": "https://example.org/oesoeb/j11",
+  "id": "https://example.org/oesoeb/jcc",
   "type": "Concept",
   "prefLabel": {
-    "en": "j11",
-    "de": "j11"
+    "en": "Comics",
+    "de": "Comics"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/j111",
-      "prefLabel": {
-        "en": "j111",
-        "de": "j111"
-      }
+  "altLabel": {
+    "en": [
+      "JC.C Comics"
+    ],
+    "de": [
+      "JC.C Comics"
+    ]
+  },
+  "broader": {
+    "id": "https://example.org/oesoeb/jc",
+    "prefLabel": {
+      "en": "Comics and Graphic novels",
+      "de": "Comics und Graphic Novels"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",

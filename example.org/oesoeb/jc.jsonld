@@ -5,6 +5,30 @@
     "en": "Comics and Graphic novels",
     "de": "Comics und Graphic Novels"
   },
+  "altLabel": {
+    "en": [
+      "JC Comics and Graphic Novels"
+    ],
+    "de": [
+      "JC Comics und Graphic Novels"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jcc",
+      "prefLabel": {
+        "en": "Comics",
+        "de": "Comics"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jcg",
+      "prefLabel": {
+        "en": "Graphic Novels",
+        "de": "Graphic Novels"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {
