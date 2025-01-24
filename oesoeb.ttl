@@ -12,7 +12,7 @@ oesoeb: a skos:ConceptScheme ;
 
 oesoeb:tegami a skos:Concept ;
     skos:prefLabel "tegami"@de, "tegami"@en ;
-    skos:altLabel "Kinder"@de, "purple"@en ;
+    skos:altLabel "Kinder"@de, "Kinder"@en ;
     skos:topConceptOf oesoeb: .
 
 oesoeb:green a skos:Concept ;
