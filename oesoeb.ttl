@@ -20,7 +20,7 @@ oesoeb:ja a skos:Concept ;
     skos:altLabel "JA Allgemeines"@de, "JA General"@en ;
     skos:broader oesoeb:j ;
     skos:narrower oesoeb:grassgreen ;
-    skos:topConceptOf oesoeb: .
+    skos:inScheme oesoeb: .
     
 oesoeb:grassgreen a skos:Concept ;
     skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
