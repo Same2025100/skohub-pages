@@ -8,7 +8,7 @@ oesoeb: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept oesoeb:j, oesoeb:ja, oesoeb:j1 .
+    skos:hasTopConcept oesoeb:j .
 
 oesoeb:j a skos:Concept ;
     skos:prefLabel "Kinder- und Jugendmedien"@de, "Children’s and young adult media"@en ;
