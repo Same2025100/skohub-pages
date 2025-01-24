@@ -8,9 +8,9 @@ oesoeb: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept oesoeb:tegami, oesoeb:green .
+    skos:hasTopConcept oesoeb:Kinder, oesoeb:green .
 
-oesoeb:tegami a skos:Concept ;
+oesoeb:Kinder a skos:Concept ;
     skos:prefLabel "tegami"@de, "tegami"@en ;
     skos:altLabel "Kinder"@de, "Kinder"@en ;
     skos:topConceptOf oesoeb: .
