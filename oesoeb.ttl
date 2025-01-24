@@ -19,17 +19,18 @@ oesoeb:ja a skos:Concept ;
     skos:prefLabel "Allgemeines"@de, "General"@en ;
     skos:altLabel "JA Allgemeines"@de, "JA General"@en ;
     skos:broader oesoeb:j ;
-    skos:narrower oesoeb:grassgreen ;
     skos:inScheme oesoeb: .
     
-oesoeb:grassgreen a skos:Concept ;
-    skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
+oesoeb:jb a skos:Concept ;
+    skos:prefLabel "Biografien für Kinder und Jugendliche"@de, "Biographies for children and young adults"@en ;
+    skos:altLabel "JB Biografien für Kinder und Jugendliche"@de, "JB Biographies for children and young adults"@en ;
+    skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
-oesoeb:j1 a skos:Concept ;
-    skos:prefLabel "j1"@en, "j1"@de ;
-    skos:narrower oesoeb:j11 ;
-    skos:topConceptOf oesoeb: .
+oesoeb:jc a skos:Concept ;
+    skos:prefLabel "Comics und Graphic Novels"@de, "Comics and Graphic novels"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
 
 oesoeb:j11 a skos:Concept ;
     skos:prefLabel "j11"@en, "j11"@de ;
