@@ -35,4 +35,5 @@ oesoeb:j11 a skos:Concept ;
 
 oesoeb:j111 a skos:Concept ;
     skos:prefLabel "j111"@en, "j111"@de ;
+    skos:narrower oesoeb:j111 ;
     skos:inScheme oesoeb: .
