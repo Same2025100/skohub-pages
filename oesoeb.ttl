@@ -11,7 +11,7 @@ oesoeb: a skos:ConceptScheme ;
     skos:hasTopConcept oesoeb:tegami, oesoeb:green .
 
 oesoeb:tegami a skos:Concept ;
-    skos:prefLabel "Kinder"@de, "tegami"@en ;
+    skos:prefLabel "tegami"@de, "tegami"@en ;
     skos:altLabel "Kinder"@de, "purple"@en ;
     skos:topConceptOf oesoeb: .
 
