@@ -1,24 +1,15 @@
 {
-  "id": "https://example.org/oesoeb/j11",
+  "id": "https://example.org/oesoeb/j111",
   "type": "Concept",
   "prefLabel": {
-    "en": "j11",
-    "de": "j11"
+    "en": "j111",
+    "de": "j111"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/j111",
-      "prefLabel": {
-        "en": "j111",
-        "de": "j111"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/oesoeb/j1",
+    "id": "https://example.org/oesoeb/j11",
     "prefLabel": {
-      "en": "j1",
-      "de": "j1"
+      "en": "j11",
+      "de": "j11"
     }
   },
   "inScheme": [
@@ -33,15 +24,6 @@
   "inSchemeAll": [
     {
       "id": "https://example.org/oesoeb/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/oesoeb/",
-      "title": {
-        "en": "Austrian classification for public libraries",
-        "de": "Österreichische Systematik Öffentlicher Bibliotheken"
-      }
     }
   ],
   "@context": {
