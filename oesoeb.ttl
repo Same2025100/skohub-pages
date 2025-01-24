@@ -17,7 +17,7 @@ oesoeb:tegami a skos:Concept ;
 
 oesoeb:green a skos:Concept ;
     skos:prefLabel "green"@en, "Grün"@de ;
-    skos:narrower systematik:grassgreen ;
+    skos:narrower oesoeb:grassgreen ;
     skos:topConceptOf oesoeb: .
     
 oesoeb:grassgreen a skos:Concept ;
