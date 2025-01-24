@@ -5,6 +5,15 @@
     "en": "j11",
     "de": "j11"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/j111",
+      "prefLabel": {
+        "en": "j111",
+        "de": "j111"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j1",
     "prefLabel": {
