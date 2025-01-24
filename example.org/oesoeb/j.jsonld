@@ -1,24 +1,24 @@
 {
-  "id": "https://example.org/oesoeb/Kinder",
+  "id": "https://example.org/oesoeb/j",
   "type": "Concept",
   "prefLabel": {
-    "en": "tegami",
-    "de": "tegami"
+    "en": "Children’s and young adult media",
+    "de": "Kinder- und Jugendmedien"
   },
   "altLabel": {
     "en": [
-      "Kinder"
+      "J Children's and youth literature"
     ],
     "de": [
-      "Kinder"
+      "J Kinder- und Jugendliteratur"
     ]
   },
   "narrower": [
     {
-      "id": "https://example.org/oesoeb/green",
+      "id": "https://example.org/oesoeb/ja",
       "prefLabel": {
-        "en": "green",
-        "de": "Grün"
+        "en": "General",
+        "de": "Allgemeines"
       }
     }
   ],

@@ -1,9 +1,17 @@
 {
-  "id": "https://example.org/oesoeb/green",
+  "id": "https://example.org/oesoeb/ja",
   "type": "Concept",
   "prefLabel": {
-    "en": "green",
-    "de": "Grün"
+    "en": "General",
+    "de": "Allgemeines"
+  },
+  "altLabel": {
+    "en": [
+      "JA General"
+    ],
+    "de": [
+      "JA Allgemeines"
+    ]
   },
   "narrower": [
     {
@@ -15,10 +23,10 @@
     }
   ],
   "broader": {
-    "id": "https://example.org/oesoeb/Kinder",
+    "id": "https://example.org/oesoeb/j",
     "prefLabel": {
-      "en": "tegami",
-      "de": "tegami"
+      "en": "Children’s and young adult media",
+      "de": "Kinder- und Jugendmedien"
     }
   },
   "inScheme": [

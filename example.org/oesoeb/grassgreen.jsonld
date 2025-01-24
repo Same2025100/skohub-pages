@@ -6,10 +6,10 @@
     "de": "Grasgrün"
   },
   "broader": {
-    "id": "https://example.org/oesoeb/green",
+    "id": "https://example.org/oesoeb/ja",
     "prefLabel": {
-      "en": "green",
-      "de": "Grün"
+      "en": "General",
+      "de": "Allgemeines"
     }
   },
   "inScheme": [
