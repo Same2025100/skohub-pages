@@ -28,3 +28,7 @@ oesoeb:j1 a skos:Concept ;
     skos:prefLabel "j1"@en, "j1"@de ;
     skos:narrower oesoeb:j11 ;
     skos:topConceptOf oesoeb: .
+
+oesoeb:j11 a skos:Concept ;
+    skos:prefLabel "j11"@en, "j11"@de ;
+    skos:inScheme oesoeb: .
