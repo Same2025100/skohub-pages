@@ -5,13 +5,6 @@
     "en": "j111",
     "de": "j111"
   },
-  "broader": {
-    "id": "https://example.org/oesoeb/j11",
-    "prefLabel": {
-      "en": "j11",
-      "de": "j11"
-    }
-  },
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",
