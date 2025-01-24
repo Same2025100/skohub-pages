@@ -17,6 +17,7 @@ oesoeb:Kinder a skos:Concept ;
 
 oesoeb:green a skos:Concept ;
     skos:prefLabel "green"@en, "Grün"@de ;
+    skos:broader oesoeb:Kinder ;
     skos:narrower oesoeb:grassgreen ;
     skos:topConceptOf oesoeb: .
     
