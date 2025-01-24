@@ -14,6 +14,13 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://example.org/oesoeb/Kinder",
+    "prefLabel": {
+      "en": "tegami",
+      "de": "tegami"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",

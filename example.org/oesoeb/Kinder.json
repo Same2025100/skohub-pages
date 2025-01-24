@@ -13,6 +13,15 @@
       "Kinder"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/green",
+      "prefLabel": {
+        "en": "green",
+        "de": "Grün"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",
