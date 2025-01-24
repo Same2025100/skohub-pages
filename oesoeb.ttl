@@ -29,14 +29,18 @@ oesoeb:jb a skos:Concept ;
 
 oesoeb:jc a skos:Concept ;
     skos:prefLabel "Comics und Graphic Novels"@de, "Comics and Graphic novels"@en ;
+    skos:altLabel "JC Comics und Graphic Novels"@de, "JC Comics and Graphic Novels"@en ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
-oesoeb:j11 a skos:Concept ;
-    skos:prefLabel "j11"@en, "j11"@de ;
-    skos:narrower oesoeb:j111 ;
+oesoeb:jcc a skos:Concept ;
+    skos:prefLabel "Comics"@de, "Comics"@en ;
+    skos:altLabel "JC.C Comics"@de, "JC.C Comics"@en ;
+    skos:broader oesoeb:jc ;
     skos:inScheme oesoeb: .
 
-oesoeb:j111 a skos:Concept ;
-    skos:prefLabel "j111"@en, "j111"@de ;
+oesoeb:jcg a skos:Concept ;
+    skos:prefLabel "Graphic Novels"@de, "Graphic Novels"@en ;
+    skos:altLabel "JC.G Graphic Novels"@de, "JC.G Graphic Novels"@en ;
+    skos:broader oesoeb:jc ;
     skos:inScheme oesoeb: .
