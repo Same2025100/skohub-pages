@@ -20,6 +20,55 @@
         "en": "History",
         "de": "Geschichte"
       }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjk",
+      "prefLabel": {
+        "en": "Art, literature, song, dance",
+        "de": "Kunst, Literatur, Lied, Tanz"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjn",
+      "prefLabel": {
+        "en": "Natural sciences",
+        "de": "Naturwissenschaften"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjp",
+      "prefLabel": {
+        "en": "Religion, philosophy",
+        "de": "Religion, Philosophie"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjr",
+      "prefLabel": {
+        "en": "Travel, cultures",
+        "de": "Reisen, Kulturen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjs",
+      "prefLabel": {
+        "en": "Leisure, hobbies",
+        "de": "Freizeit, Hobbies"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjt",
+      "prefLabel": {
+        "en": "Technology",
+        "de": "Technik"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdjv",
+      "prefLabel": {
+        "en": "Miscellaneous",
+        "de": "Vermischtes"
+      }
     }
   ],
   "broader": {
