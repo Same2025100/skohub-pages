@@ -13,6 +13,43 @@
       "JE.G Geschichte"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jega",
+      "prefLabel": {
+        "en": "Prehistory",
+        "de": "Urgeschichte"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jegb",
+      "prefLabel": {
+        "en": "Antiquity",
+        "de": "Altertum"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jegc",
+      "prefLabel": {
+        "en": "Middle Ages",
+        "de": "Mittelalter"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jegd",
+      "prefLabel": {
+        "en": "Modern times",
+        "de": "Neuzeit"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jege",
+      "prefLabel": {
+        "en": "History from the 20th century",
+        "de": "Geschichte ab dem 20. Jahrhundert"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/je",
     "prefLabel": {

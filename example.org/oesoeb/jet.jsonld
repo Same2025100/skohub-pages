@@ -13,6 +13,50 @@
       "JE.T Gesellschaft, Psychologie, Krankheit"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jetb",
+      "prefLabel": {
+        "en": "Relationship",
+        "de": "Beziehung"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jetg",
+      "prefLabel": {
+        "en": "Feelings",
+        "de": "Gefühle"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jetk",
+      "prefLabel": {
+        "en": "Illness and disability",
+        "de": "Krankheit und Behinderung"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jetp",
+      "prefLabel": {
+        "en": "Socio-political issues",
+        "de": "Gesellschaftspolitische Themen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jets",
+      "prefLabel": {
+        "en": "School and kindergarten",
+        "de": "Schule und Kindergarten"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jett",
+      "prefLabel": {
+        "en": "Separation",
+        "de": "Trennung"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/je",
     "prefLabel": {

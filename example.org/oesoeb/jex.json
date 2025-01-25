@@ -13,6 +13,22 @@
       "JE.X Feste im Jahreslauf"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jexo",
+      "prefLabel": {
+        "en": "Easter",
+        "de": "Ostern"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jexw",
+      "prefLabel": {
+        "en": "Christmas",
+        "de": "Weihnachten"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/je",
     "prefLabel": {

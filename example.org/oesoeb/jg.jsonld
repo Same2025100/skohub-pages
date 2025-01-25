@@ -13,6 +13,78 @@
       "JG Geschichte, Gesellschaft"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jga",
+      "prefLabel": {
+        "en": "Prehistory",
+        "de": "Urgeschichte"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgb",
+      "prefLabel": {
+        "en": "Antiquity",
+        "de": "Altertum"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgc",
+      "prefLabel": {
+        "en": "Middle ages",
+        "de": "Mittelalter"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgd",
+      "prefLabel": {
+        "en": "Modern times",
+        "de": "Neuzeit"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jge",
+      "prefLabel": {
+        "en": "History from the 20th century",
+        "de": "Geschichte ab dem 20. Jahrhundert"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgh",
+      "prefLabel": {
+        "en": "Discovery story",
+        "de": "Entdeckungsgeschichte"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgi",
+      "prefLabel": {
+        "en": "Society, politics, economy",
+        "de": "Gesellschaft, Politik, Wirtschaft"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgl",
+      "prefLabel": {
+        "en": "History of individual countries and continents",
+        "de": "Geschichte einzelner Länder und Kontinente"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgv",
+      "prefLabel": {
+        "en": "Miscellaneous",
+        "de": "Vermischtes"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

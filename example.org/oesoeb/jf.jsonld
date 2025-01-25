@@ -13,6 +13,43 @@
       "JF Fremdsprachige Literatur"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jfe",
+      "prefLabel": {
+        "en": "English",
+        "de": "Englisch"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jfk",
+      "prefLabel": {
+        "en": "Scandinavian languages",
+        "de": "Skandinavische Sprachen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jfr",
+      "prefLabel": {
+        "en": "Romance languages",
+        "de": "Romanische Sprachen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jfs",
+      "prefLabel": {
+        "en": "Slavic languages",
+        "de": "Slawische Sprachen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jfv",
+      "prefLabel": {
+        "en": "Other languages",
+        "de": "Weitere Sprachen"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

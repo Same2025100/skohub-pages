@@ -13,6 +13,15 @@
       "JE.N Naturerlebnisse, Tiergeschichten"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jenp",
+      "prefLabel": {
+        "en": "Horse stories",
+        "de": "Pferdegeschichten"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/je",
     "prefLabel": {

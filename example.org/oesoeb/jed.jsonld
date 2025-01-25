@@ -13,6 +13,22 @@
       "JE.D Kriminalromane"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jedh",
+      "prefLabel": {
+        "en": "Historical crime novels",
+        "de": "Historische Kriminalromane"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jedr",
+      "prefLabel": {
+        "en": "Guess crime novels",
+        "de": "Ratekrimis"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/je",
     "prefLabel": {
