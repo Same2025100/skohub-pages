@@ -261,6 +261,54 @@ oesoeb:jec a skos:Concept ;
     skos:broader oesoeb:je ;
     skos:inScheme oesoeb: .
 
+oesoeb:jecb a skos:Concept ;
+    skos:prefLabel "Erstlesebücher - mit Bildern lesen lernen"@de, "First reading books - learning to read with pictures"@en ;
+    skos:altLabel "JE.CB Erstlesebücher - mit Bildern lesen lernen"@de, "JE.CB First reading books - learning to read with pictures"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jecc a skos:Concept ;
+    skos:prefLabel "Erstlesebücher mit Comiccharakter"@de, "First reading books with a comic character"@en ;
+    skos:altLabel "JE.CC Erstlesebücher mit Comiccharakter"@de, "JE.CC First reading books with a comic character"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jecg a skos:Concept ;
+    skos:prefLabel "Erstlesebücher in Großbuchstaben"@de, "First reading books in capital letters"@en ;
+    skos:altLabel "JE.CG Erstlesebücher in Großbuchstaben"@de, "JE.CG First reading books in capital letters"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jech a skos:Concept ;
+    skos:prefLabel "Erstleserbücher in Schreibschrift"@de, "First-reader books in cursive"@en ;
+    skos:altLabel "JE.CH Erstleserbücher in Schreibschrift"@de, "JE.CH First-reader books in cursive"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jeci a skos:Concept ;
+    skos:prefLabel "Erstlesebücher mit Silbentrennung"@de, "First reading books with hyphenation"@en ;
+    skos:altLabel "JE.CI Erstlesebücher mit Silbentrennung"@de, "JE.CI First reading books with hyphenation"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jecm a skos:Concept ;
+    skos:prefLabel "Miteinander lesen"@de, "Read together"@en ;
+    skos:altLabel "JE.CM Miteinander lesen"@de, "JE.CM Read together"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jeco a skos:Concept ;
+    skos:prefLabel "Fortgeschrittene LeseanfängerInnen"@de, "Advanced reading beginners"@en ;
+    skos:altLabel "JE.CO Fortgeschrittene LeseanfängerInnen"@de, "JE.CO Advanced reading beginners"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jecs a skos:Concept ;
+    skos:prefLabel "Sachwissen für LeseanfängerInnen"@de, "Factual knowledge for beginning readers"@en ;
+    skos:altLabel "JE.CS Sachwissen für LeseanfängerInnen"@de, "JE.CS Factual knowledge for beginning readers"@en ;
+    skos:broader oesoeb:jec ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jed a skos:Concept ;
     skos:prefLabel "Kriminalromane"@de, "Crime novels"@en ;
     skos:altLabel "JE.D Kriminalromane"@de, "JE.D Crime novels"@en ;
