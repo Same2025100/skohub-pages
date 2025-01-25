@@ -62,3 +62,93 @@ oesoeb:jcs a skos:Concept ;
     skos:altLabel "JC.S Sachcomics"@de, "JC.S Non-fiction comics"@en ;
     skos:broader oesoeb:jc ;
     skos:inScheme oesoeb: .
+
+oesoeb:jd a skos:Concept ;
+    skos:prefLabel "Bilderbücher"@de, "Picture  books"@en ;
+    skos:altLabel "JD Bilderbücher"@de, "JD Picture books"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:je a skos:Concept ;
+    skos:prefLabel "Erzählungen und Romane"@de, "Stories and novels"@en ;
+    skos:altLabel "JE Erzählungen und Romane"@de, "JE Stories and novels"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jf a skos:Concept ;
+    skos:prefLabel "Fremdsprachige Literatur"@de, "Foreign language literature"@en ;
+    skos:altLabel "JF Fremdsprachige Literatur"@de, "JF Foreign language literature"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jg a skos:Concept ;
+    skos:prefLabel "Geschichte, Gesellschaft"@de, "History, society"@en ;
+    skos:altLabel "JG Geschichte, Gesellschaft"@de, "JG History, society"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jh a skos:Concept ;
+    skos:prefLabel "Theaterstücke"@de, "Plays"@en ;
+    skos:altLabel "JH Theaterstücke"@de, "JH Plays"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jk a skos:Concept ;
+    skos:prefLabel "Kunst, Literatur"@de, "Art, literature"@en ;
+    skos:altLabel "JK Kunst, Literatur"@de, "JK Art, literature"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jl a skos:Concept ;
+    skos:prefLabel "Lyrik"@de, "Poetry"@en ;
+    skos:altLabel "JL Lyrik"@de, "JL Poetry"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jm a skos:Concept ;
+    skos:prefLabel "Märchen, Sagen"@de, "Fairy tales, legends"@en ;
+    skos:altLabel "JM Märchen, Sagen"@de, "JM Fairy tales, legends"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jn a skos:Concept ;
+    skos:prefLabel "Natur und Mensch"@de, "Nature and man"@en ;
+    skos:altLabel "JN Natur und Mensch"@de, "JN Nature and man"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jp a skos:Concept ;
+    skos:prefLabel "Psychologie, Pädagogik, Religion, Philosophie"@de, "Psychology, pedagogy, religion, philosophy"@en ;
+    skos:altLabel "JP Psychologie, Pädagogik, Religion, Philosophie"@de, "JP Psychology, pedagogy, religion, philosophy"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jr a skos:Concept ;
+    skos:prefLabel "Reisen, Geographie, Kulturen"@de, "Travel, geography, cultures"@en ;
+    skos:altLabel "JR Reisen, Geographie, Kulturen"@de, "JR Travel, geography, cultures"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:js a skos:Concept ;
+    skos:prefLabel "Sport, Freizeit, Hobbies"@de, "Sports, leisure, hobbies"@en ;
+    skos:altLabel "JS Sport, Freizeit, Hobbies"@de, "JS Sports, leisure, hobbies"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jt a skos:Concept ;
+    skos:prefLabel "Technik"@de, "Technology"@en ;
+    skos:altLabel "JT Technik"@de, "JT Technology"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jv a skos:Concept ;
+    skos:prefLabel "Sonstige Sachthemen"@de, "Other subject matters"@en ;
+    skos:altLabel "JV Sonstige Sachthemen"@de, "JV Other subject matters"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jw a skos:Concept ;
+    skos:prefLabel "Ausbildung und Beruf"@de, "Education and career"@en ;
+    skos:altLabel "JW Ausbildung und Beruf"@de, "JW Education and career"@en ;
+    skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
