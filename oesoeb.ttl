@@ -93,6 +93,12 @@ oesoeb:jdj a skos:Concept ;
     skos:broader oesoeb:jd ;
     skos:inScheme oesoeb: .
 
+oesoeb:jdjg a skos:Concept ;
+    skos:prefLabel "Geschichte"@de, "History"@en ;
+    skos:altLabel "JD.JG Geschichte"@de, "JD.JG History"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jdk a skos:Concept ;
     skos:prefLabel "Bilderbücher für die Kleinsten"@de, "Picture books for the little ones"@en ;
     skos:altLabel "JD.K Bilderbücher für die Kleinsten"@de, "JD.K Picture books for the little ones"@en ;
