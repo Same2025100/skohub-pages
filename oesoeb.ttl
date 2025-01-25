@@ -141,7 +141,6 @@ oesoeb:jdw a skos:Concept ;
     skos:broader oesoeb:jd ;
     skos:inScheme oesoeb: .
 
-
 oesoeb:jdx a skos:Concept ;
     skos:prefLabel "Feste im Jahreslauf"@de, "Festivals throughout the year"@en ;
     skos:altLabel "JD.X Feste im Jahreslauf"@de, "JD.X Festivals throughout the year"@en ;
