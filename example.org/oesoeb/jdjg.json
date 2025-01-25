@@ -1,32 +1,23 @@
 {
-  "id": "https://example.org/oesoeb/jdj",
+  "id": "https://example.org/oesoeb/jdjg",
   "type": "Concept",
   "prefLabel": {
-    "en": "Non-fiction picture books for children",
-    "de": "Sachbilderbücher für Kinder"
+    "en": "History",
+    "de": "Geschichte"
   },
   "altLabel": {
     "en": [
-      "JD.J Non-fiction picture books for children"
+      "JD.JG History"
     ],
     "de": [
-      "JD.J Sachbilderbücher für Kinder"
+      "JD.JG Geschichte"
     ]
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/jdjg",
-      "prefLabel": {
-        "en": "History",
-        "de": "Geschichte"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/oesoeb/jd",
+    "id": "https://example.org/oesoeb/jdj",
     "prefLabel": {
-      "en": "Picture  books",
-      "de": "Bilderbücher"
+      "en": "Non-fiction picture books for children",
+      "de": "Sachbilderbücher für Kinder"
     }
   },
   "inScheme": [

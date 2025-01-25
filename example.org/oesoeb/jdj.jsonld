@@ -13,6 +13,15 @@
       "JD.J Sachbilderbücher für Kinder"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jdjg",
+      "prefLabel": {
+        "en": "History",
+        "de": "Geschichte"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/jd",
     "prefLabel": {
