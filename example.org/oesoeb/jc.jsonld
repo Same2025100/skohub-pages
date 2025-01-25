@@ -27,6 +27,27 @@
         "en": "Graphic Novels",
         "de": "Graphic Novels"
       }
+    },
+    {
+      "id": "https://example.org/oesoeb/jck",
+      "prefLabel": {
+        "en": "Cartoons",
+        "de": "Cartoons, Karikaturen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jcm",
+      "prefLabel": {
+        "en": "Mangas",
+        "de": "Mangas"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jcs",
+      "prefLabel": {
+        "en": "Non-fiction comics",
+        "de": "Sachcomics"
+      }
     }
   ],
   "broader": {

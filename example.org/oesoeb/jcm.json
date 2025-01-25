@@ -1,60 +1,23 @@
 {
-  "id": "https://example.org/oesoeb/jc",
+  "id": "https://example.org/oesoeb/jcm",
   "type": "Concept",
   "prefLabel": {
-    "en": "Comics and Graphic novels",
-    "de": "Comics und Graphic Novels"
+    "en": "Mangas",
+    "de": "Mangas"
   },
   "altLabel": {
     "en": [
-      "JC Comics and Graphic Novels"
+      "JC.M Mangas"
     ],
     "de": [
-      "JC Comics und Graphic Novels"
+      "JC.M Mangas"
     ]
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/jcc",
-      "prefLabel": {
-        "en": "Comics",
-        "de": "Comics"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jcg",
-      "prefLabel": {
-        "en": "Graphic Novels",
-        "de": "Graphic Novels"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jck",
-      "prefLabel": {
-        "en": "Cartoons",
-        "de": "Cartoons, Karikaturen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jcm",
-      "prefLabel": {
-        "en": "Mangas",
-        "de": "Mangas"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jcs",
-      "prefLabel": {
-        "en": "Non-fiction comics",
-        "de": "Sachcomics"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/oesoeb/j",
+    "id": "https://example.org/oesoeb/jc",
     "prefLabel": {
-      "en": "Children’s and young adult media",
-      "de": "Kinder- und Jugendmedien"
+      "en": "Comics and Graphic novels",
+      "de": "Comics und Graphic Novels"
     }
   },
   "inScheme": [
