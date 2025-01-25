@@ -29,7 +29,13 @@ oesoeb:jb a skos:Concept ;
 
 oesoeb:jba a skos:Concept ;
     skos:prefLabel "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"@de, "General collected biographies from various subject areas"@en ;
-    skos:altLabel "JB.A Allgemeine Sammelbiographien aus verschiedenen Themenbereichen "@de, "JB.A General collected biographies from various subject areas"@en ;
+    skos:altLabel "JB.A Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"@de, "JB.A General collected biographies from various subject areas"@en ;
+    skos:broader oesoeb:jb ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jbsys a skos:Concept ;
+    skos:prefLabel "Biografien für Kinder und Jugendliche aus einzelnen Themenbereichen"@de, "Biographies for children and young people from individual subject areas"@en ;
+    skos:altLabel "JB.SYS Biografien für Kinder und Jugendliche aus einzelnen Themenbereichen"@de, "JB.SYS Biographies for children and young people from individual subject areas"@en ;
     skos:broader oesoeb:jb ;
     skos:inScheme oesoeb: .
 
@@ -73,6 +79,79 @@ oesoeb:jd a skos:Concept ;
     skos:prefLabel "Bilderbücher"@de, "Picture  books"@en ;
     skos:altLabel "JD Bilderbücher"@de, "JD Picture books"@en ;
     skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdf a skos:Concept ;
+    skos:prefLabel "Bilderbücher zum Fremdsprachenerwerb"@de, "Picture books for foreign language acquisition"@en ;
+    skos:altLabel "JD.F Bilderbücher zum Fremdsprachenerwerb"@de, "JD.F Picture books for foreign language acquisition"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdj a skos:Concept ;
+    skos:prefLabel "Sachbilderbücher für Kinder"@de, "Non-fiction picture books for children"@en ;
+    skos:altLabel "JD.J Sachbilderbücher für Kinder"@de, "JD.J Non-fiction picture books for children"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdk a skos:Concept ;
+    skos:prefLabel "Bilderbücher für die Kleinsten"@de, "Picture books for the little ones"@en ;
+    skos:altLabel "JD.K Bilderbücher für die Kleinsten"@de, "JD.K Picture books for the little ones"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdl a skos:Concept ;
+    skos:prefLabel "Gedichte, Lieder"@de, "Poems, songs"@en ;
+    skos:altLabel "JD.L Gedichte, Lieder"@de, "JD.L Poems, songs"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdm a skos:Concept ;
+    skos:prefLabel "Märchenbilderbücher, fantastische Bilderbücher"@de, "Fairytale picture books, fantastic picture books"@en ;
+    skos:altLabel "JD.M Märchenbilderbücher, fantastische Bilderbücher"@de, "JD.M Fairytale picture books, fantastic picture books"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdn a skos:Concept ;
+    skos:prefLabel "Bilderbücher mit Tierprotagonisten"@de, "Picture books with animal protagonists"@en ;
+    skos:altLabel "JD.N Bilderbücher mit Tierprotagonisten"@de, "JD.N Picture books with animal protagonists"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdo a skos:Concept ;
+    skos:prefLabel "Textlose Bilderbücher"@de, "Textless picture books"@en ;
+    skos:altLabel "JD.O Textlose Bilderbücher"@de, "JD.O Textless picture books"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdr a skos:Concept ;
+    skos:prefLabel "Bilderbuch-Reihen"@de, "Picture book series"@en ;
+    skos:altLabel "JD.R Bilderbuch-Reihen"@de, "JD.R Picture book series"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdt a skos:Concept ;
+    skos:prefLabel "Themen- und problemorientierte Bilderbücher"@de, "Thematic and problem-oriented picture books"@en ;
+    skos:altLabel "JD.T Themen- und problemorientierte Bilderbücher"@de, "JD.T Thematic and problem-oriented picture books"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdw a skos:Concept ;
+    skos:prefLabel "Wimmel-Bilderbücher"@de, "Hidden object picture books"@en ;
+    skos:altLabel "JD.W Wimmel-Bilderbücher"@de, "JD.W Hidden object picture books"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+
+oesoeb:jdx a skos:Concept ;
+    skos:prefLabel "Feste im Jahreslauf"@de, "Festivals throughout the year"@en ;
+    skos:altLabel "JD.X Feste im Jahreslauf"@de, "JD.X Festivals throughout the year"@en ;
+    skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdz a skos:Concept ;
+    skos:prefLabel "ABC- und Zahlenlernbücher"@de, "ABC and number learning books"@en ;
+    skos:altLabel "JD.Z ABC- und Zahlenlernbücher"@de, "JD.Z ABC and number learning books"@en ;
+    skos:broader oesoeb:jd ;
     skos:inScheme oesoeb: .
 
 oesoeb:je a skos:Concept ;
