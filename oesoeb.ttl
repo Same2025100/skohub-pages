@@ -315,6 +315,18 @@ oesoeb:jed a skos:Concept ;
     skos:broader oesoeb:je ;
     skos:inScheme oesoeb: .
 
+oesoeb:jedh a skos:Concept ;
+    skos:prefLabel "Historische Kriminalromane"@de, "Historical crime novels"@en ;
+    skos:altLabel "JE.DH Historische Kriminalromane"@de, "JE.DH Historical crime novels"@en ;
+    skos:broader oesoeb:jed ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jedr a skos:Concept ;
+    skos:prefLabel "Ratekrimis"@de, "Guess crime novels"@en ;
+    skos:altLabel "JE.DR Ratekrimis"@de, "JE.DR Guess crime novels"@en ;
+    skos:broader oesoeb:jed ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jee a skos:Concept ;
     skos:prefLabel "Vereinfachte Lesetexte für Jugendliche"@de, "Simplified reading texts for young people"@en ;
     skos:altLabel "JE.E Vereinfachte Lesetexte für Jugendliche"@de, "JE.E Simplified reading texts for young people"@en ;
@@ -331,6 +343,36 @@ oesoeb:jeg a skos:Concept ;
     skos:prefLabel "Geschichte"@de, "History"@en ;
     skos:altLabel "JE.G Geschichte"@de, "JE.G History"@en ;
     skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jega a skos:Concept ;
+    skos:prefLabel "Urgeschichte"@de, "Prehistory"@en ;
+    skos:altLabel "JE.GA Urgeschichte"@de, "JE.GA Prehistory"@en ;
+    skos:broader oesoeb:jeg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jegb a skos:Concept ;
+    skos:prefLabel "Altertum"@de, "Antiquity"@en ;
+    skos:altLabel "JE.GB Altertum"@de, "JE.GB Antiquity"@en ;
+    skos:broader oesoeb:jeg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jegc a skos:Concept ;
+    skos:prefLabel "Mittelalter"@de, "Middle Ages"@en ;
+    skos:altLabel "JE.GC Mittelalter"@de, "JE.GC Middle Ages"@en ;
+    skos:broader oesoeb:jeg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jegd a skos:Concept ;
+    skos:prefLabel "Neuzeit"@de, "Modern times"@en ;
+    skos:altLabel "JE.GD Neuzeit"@de, "JE.GD Modern times"@en ;
+    skos:broader oesoeb:jeg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jege a skos:Concept ;
+    skos:prefLabel "Geschichte ab dem 20. Jahrhundert"@de, "History from the 20th century"@en ;
+    skos:altLabel "JE.GE Geschichte ab dem 20. Jahrhundert"@de, "JE.GE History from the 20th century"@en ;
+    skos:broader oesoeb:jeg ;
     skos:inScheme oesoeb: .
 
 oesoeb:jeh a skos:Concept ;
@@ -375,6 +417,12 @@ oesoeb:jen a skos:Concept ;
     skos:broader oesoeb:je ;
     skos:inScheme oesoeb: .
 
+oesoeb:jenp a skos:Concept ;
+    skos:prefLabel "Pferdegeschichten"@de, "Horse stories"@en ;
+    skos:altLabel "JE.NP Pferdegeschichten"@de, "JE.NP Horse stories"@en ;
+    skos:broader oesoeb:jen ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jeo a skos:Concept ;
     skos:prefLabel "Comicromane"@de, "Graphic novels"@en ;
     skos:altLabel "JE.O Comicromane"@de, "JE.O Graphic novels"@en ;
@@ -405,6 +453,42 @@ oesoeb:jet a skos:Concept ;
     skos:broader oesoeb:je ;
     skos:inScheme oesoeb: .
 
+oesoeb:jetb a skos:Concept ;
+    skos:prefLabel "Beziehung"@de, "Relationship"@en ;
+    skos:altLabel "JE.TB Beziehung"@de, "JE.TB Relationship"@en ;
+    skos:broader oesoeb:jet ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jetg a skos:Concept ;
+    skos:prefLabel "Gefühle"@de, "Feelings"@en ;
+    skos:altLabel "JE.TG Gefühle"@de, "JE.TG Feelings"@en ;
+    skos:broader oesoeb:jet ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jetk a skos:Concept ;
+    skos:prefLabel "Krankheit und Behinderung"@de, "Illness and disability"@en ;
+    skos:altLabel "JE.TK Krankheit und Behinderung"@de, "JE.TK Illness and disability"@en ;
+    skos:broader oesoeb:jet ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jetp a skos:Concept ;
+    skos:prefLabel "Gesellschaftspolitische Themen"@de, "Socio-political issues"@en ;
+    skos:altLabel "JE.TP Gesellschaftspolitische Themen"@de, "JE.TP Socio-political issues"@en ;
+    skos:broader oesoeb:jet ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jets a skos:Concept ;
+    skos:prefLabel "Schule und Kindergarten"@de, "School and kindergarten"@en ;
+    skos:altLabel "JE.TS Schule und Kindergarten"@de, "JE.TS School and kindergarten"@en ;
+    skos:broader oesoeb:jet ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jett a skos:Concept ;
+    skos:prefLabel "Trennung"@de, "Separation"@en ;
+    skos:altLabel "JE.TT Trennung"@de, "JE.TT Separation"@en ;
+    skos:broader oesoeb:jet ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jeu a skos:Concept ;
     skos:prefLabel "Utopien, Science-Fiction"@de, "Utopias, science fiction"@en ;
     skos:altLabel "JE.U Utopien, Science-Fiction"@de, "JE.U Utopias, science fiction"@en ;
@@ -429,16 +513,118 @@ oesoeb:jex a skos:Concept ;
     skos:broader oesoeb:je ;
     skos:inScheme oesoeb: .
 
+oesoeb:jexo a skos:Concept ;
+    skos:prefLabel "Ostern"@de, "Easter"@en ;
+    skos:altLabel "JE.XO Ostern"@de, "JE.XO Easter"@en ;
+    skos:broader oesoeb:jex ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jexw a skos:Concept ;
+    skos:prefLabel "Weihnachten"@de, "Christmas"@en ;
+    skos:altLabel "JE.XW Weihnachten"@de, "JE.XW Christmas"@en ;
+    skos:broader oesoeb:jex ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jf a skos:Concept ;
     skos:prefLabel "Fremdsprachige Literatur"@de, "Foreign language literature"@en ;
     skos:altLabel "JF Fremdsprachige Literatur"@de, "JF Foreign language literature"@en ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jfe a skos:Concept ;
+    skos:prefLabel "Englisch"@de, "English"@en ;
+    skos:altLabel "JF.E Englisch"@de, "JF.E English"@en ;
+    skos:broader oesoeb:jf ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jfk a skos:Concept ;
+    skos:prefLabel "Skandinavische Sprachen"@de, "Scandinavian languages"@en ;
+    skos:altLabel "JF.K Skandinavische Sprachen"@de, "JF.K Scandinavian languages"@en ;
+    skos:broader oesoeb:jf ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jfr a skos:Concept ;
+    skos:prefLabel "Romanische Sprachen"@de, "Romance languages"@en ;
+    skos:altLabel "JF.R Romanische Sprachen"@de, "JF.R Romance languages"@en ;
+    skos:broader oesoeb:jf ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jfs a skos:Concept ;
+    skos:prefLabel "Slawische Sprachen"@de, "Slavic languages"@en ;
+    skos:altLabel "JF.S Slawische Sprachen"@de, "JF.S Slavic languages"@en ;
+    skos:broader oesoeb:jf ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jfv a skos:Concept ;
+    skos:prefLabel "Weitere Sprachen"@de, "Other languages"@en ;
+    skos:altLabel "JF.V Weitere Sprachen"@de, "JF.V Other languages"@en ;
+    skos:broader oesoeb:jf ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jg a skos:Concept ;
     skos:prefLabel "Geschichte, Gesellschaft"@de, "History, society"@en ;
     skos:altLabel "JG Geschichte, Gesellschaft"@de, "JG History, society"@en ;
     skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jga a skos:Concept ;
+    skos:prefLabel "Urgeschichte"@de, "Prehistory"@en ;
+    skos:altLabel "JG.A Urgeschichte"@de, "JG.A Prehistory"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgb a skos:Concept ;
+    skos:prefLabel "Altertum"@de, "Antiquity"@en ;
+    skos:altLabel "JG.B Altertum"@de, "JG.B Antiquity"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgc a skos:Concept ;
+    skos:prefLabel "Mittelalter"@de, "Middle ages"@en ;
+    skos:altLabel "JG.C Mittelalter"@de, "JG.C Middle ages"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgd a skos:Concept ;
+    skos:prefLabel "Neuzeit"@de, "Modern times"@en ;
+    skos:altLabel "JG.D Neuzeit"@de, "JG.D Modern times"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jge a skos:Concept ;
+    skos:prefLabel "Geschichte ab dem 20. Jahrhundert"@de, "History from the 20th century"@en ;
+    skos:altLabel "JG.E Geschichte ab dem 20. Jahrhundert"@de, "JG.E History from the 20th century"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgh a skos:Concept ;
+    skos:prefLabel "Entdeckungsgeschichte"@de, "Discovery story"@en ;
+    skos:altLabel "JG.H Entdeckungsgeschichte"@de, "JG.H Discovery story"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgi a skos:Concept ;
+    skos:prefLabel "Gesellschaft, Politik, Wirtschaft"@de, "Society, politics, economy"@en ;
+    skos:altLabel "JG.I Gesellschaft, Politik, Wirtschaft"@de, "JG.I Society, politics, economy"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgl a skos:Concept ;
+    skos:prefLabel "Geschichte einzelner Länder und Kontinente"@de, "History of individual countries and continents"@en ;
+    skos:altLabel "JG.L Geschichte einzelner Länder und Kontinente"@de, "JG.L History of individual countries and continents"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JG.Q Biographien"@de, "JG.Q Biographies"@en ;
+    skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgv a skos:Concept ;
+    skos:prefLabel "Vermischtes"@de, "Miscellaneous"@en ;
+    skos:altLabel "JG.V Vermischtes"@de, "JG.V Miscellaneous"@en ;
+    skos:broader oesoeb:jg ;
     skos:inScheme oesoeb: .
 
 oesoeb:jh a skos:Concept ;
