@@ -1,81 +1,23 @@
 {
-  "id": "https://example.org/oesoeb/jec",
+  "id": "https://example.org/oesoeb/jecg",
   "type": "Concept",
   "prefLabel": {
-    "en": "First reading age",
-    "de": "Erstes Lesealter"
+    "en": "First reading books in capital letters",
+    "de": "Erstlesebücher in Großbuchstaben"
   },
   "altLabel": {
     "en": [
-      "JE.C First reading age"
+      "JE.CG First reading books in capital letters"
     ],
     "de": [
-      "JE.C Erstes Lesealter"
+      "JE.CG Erstlesebücher in Großbuchstaben"
     ]
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/jecb",
-      "prefLabel": {
-        "en": "First reading books - learning to read with pictures",
-        "de": "Erstlesebücher - mit Bildern lesen lernen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jecc",
-      "prefLabel": {
-        "en": "First reading books with a comic character",
-        "de": "Erstlesebücher mit Comiccharakter"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jecg",
-      "prefLabel": {
-        "en": "First reading books in capital letters",
-        "de": "Erstlesebücher in Großbuchstaben"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jech",
-      "prefLabel": {
-        "en": "First-reader books in cursive",
-        "de": "Erstleserbücher in Schreibschrift"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jeci",
-      "prefLabel": {
-        "en": "First reading books with hyphenation",
-        "de": "Erstlesebücher mit Silbentrennung"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jecm",
-      "prefLabel": {
-        "en": "Read together",
-        "de": "Miteinander lesen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jeco",
-      "prefLabel": {
-        "en": "Advanced reading beginners",
-        "de": "Fortgeschrittene LeseanfängerInnen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jecs",
-      "prefLabel": {
-        "en": "Factual knowledge for beginning readers",
-        "de": "Sachwissen für LeseanfängerInnen"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/oesoeb/je",
+    "id": "https://example.org/oesoeb/jec",
     "prefLabel": {
-      "en": "Stories and novels",
-      "de": "Erzählungen und Romane"
+      "en": "First reading age",
+      "de": "Erstes Lesealter"
     }
   },
   "inScheme": [
