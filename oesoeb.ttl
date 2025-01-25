@@ -609,16 +609,64 @@ oesoeb:jgi a skos:Concept ;
     skos:broader oesoeb:jg ;
     skos:inScheme oesoeb: .
 
+oesoeb:jgig a skos:Concept ;
+    skos:prefLabel "Menschenrechte"@de, "Human rights"@en ;
+    skos:altLabel "JG.IG Menschenrechte"@de, "JG.IG Human rights"@en ;
+    skos:broader oesoeb:jgi ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgik a skos:Concept ;
+    skos:prefLabel "Entwicklungsländer"@de, "Developing countries"@en ;
+    skos:altLabel "JG.IK Entwicklungsländer"@de, "JG.IK Developing countries"@en ;
+    skos:broader oesoeb:jgi ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jgl a skos:Concept ;
     skos:prefLabel "Geschichte einzelner Länder und Kontinente"@de, "History of individual countries and continents"@en ;
     skos:altLabel "JG.L Geschichte einzelner Länder und Kontinente"@de, "JG.L History of individual countries and continents"@en ;
     skos:broader oesoeb:jg ;
     skos:inScheme oesoeb: .
 
+oesoeb:jgle a skos:Concept ;
+    skos:prefLabel "Europa"@de, "Europe"@en ;
+    skos:altLabel "JG.LE Europa"@de, "JG.LE Europe"@en ;
+    skos:broader oesoeb:jgl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jglf a skos:Concept ;
+    skos:prefLabel "Afrika"@de, "Africa"@en ;
+    skos:altLabel "JG.LF Afrika"@de, "JG.LF Africa"@en ;
+    skos:broader oesoeb:jgl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jglm a skos:Concept ;
+    skos:prefLabel "Amerika"@de, "America"@en ;
+    skos:altLabel "JG.LM Amerika"@de, "JG.LM America"@en ;
+    skos:broader oesoeb:jgl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jglo a skos:Concept ;
+    skos:prefLabel "Österreich"@de, "Austria"@en ;
+    skos:altLabel "JG.LO Österreich"@de, "JG.LO Austria"@en ;
+    skos:broader oesoeb:jgl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgls a skos:Concept ;
+    skos:prefLabel "Asien, Australien und Ozeanien"@de, "Asia, Australia and Oceania"@en ;
+    skos:altLabel "JG.LS Asien, Australien und Ozeanien"@de, "JG.LS Asia, Australia and Oceania"@en ;
+    skos:broader oesoeb:jgl ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jgq a skos:Concept ;
     skos:prefLabel "Biographien"@de, "Biographies"@en ;
     skos:altLabel "JG.Q Biographien"@de, "JG.Q Biographies"@en ;
     skos:broader oesoeb:jg ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jgqo a skos:Concept ;
+    skos:prefLabel "Österreich"@de, "Austria"@en ;
+    skos:altLabel "JG.QO Österreich"@de, "JG.QO Austria"@en ;
+    skos:broader oesoeb:jgq ;
     skos:inScheme oesoeb: .
 
 oesoeb:jgv a skos:Concept ;
@@ -639,6 +687,84 @@ oesoeb:jk a skos:Concept ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jkb a skos:Concept ;
+    skos:prefLabel "Bildende Kunst"@de, "Fine arts"@en ;
+    skos:altLabel "JK.B Bildende Kunst"@de, "JK.B Fine arts"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jke a skos:Concept ;
+    skos:prefLabel "Architektur"@de, "Architecture"@en ;
+    skos:altLabel "JK.E Architektur"@de, "JK.E Architekture"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkl a skos:Concept ;
+    skos:prefLabel "Literatur"@de, "Literature"@en ;
+    skos:altLabel "JK.L Literatur"@de, "JK.L Literature"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkm a skos:Concept ;
+    skos:prefLabel "Musik"@de, "Music"@en ;
+    skos:altLabel "JK.M Musik"@de, "JK.M Music"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkmk a skos:Concept ;
+    skos:prefLabel "Klassik"@de, "Classic"@en ;
+    skos:altLabel "JK.MK Klassik"@de, "JK.MK Classic"@en ;
+    skos:broader oesoeb:jkm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkmp a skos:Concept ;
+    skos:prefLabel "Popmusik"@de, "Pop music"@en ;
+    skos:altLabel "JK.MP Popmusik"@de, "JK.MP Pop music"@en ;
+    skos:broader oesoeb:jkm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JK.Q Biographien"@de, "JK.Q Biographies"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkqb a skos:Concept ;
+    skos:prefLabel "Bildende Kunst"@de, "Fine arts"@en ;
+    skos:altLabel "JK.QB Bildende Kunst"@de, "JK.QB Fine arts"@en ;
+    skos:broader oesoeb:jkq ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkql a skos:Concept ;
+    skos:prefLabel "Literatur"@de, "Literature"@en ;
+    skos:altLabel "JK.QL Literatur"@de, "JK.QL Literature"@en ;
+    skos:broader oesoeb:jkq ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkqm a skos:Concept ;
+    skos:prefLabel "Musik"@de, "Music"@en ;
+    skos:altLabel "JK.QM Musik"@de, "JK.QM Music"@en ;
+    skos:broader oesoeb:jkq ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkqt a skos:Concept ;
+    skos:prefLabel "Film, Theater, Tanz"@de, "Film, theater, dance"@en ;
+    skos:altLabel "JK.QT Film, Theater, Tanz"@de, "JK.QT Film, theater, dance"@en ;
+    skos:broader oesoeb:jkq ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkt a skos:Concept ;
+    skos:prefLabel "Darstellende Kunst: Film, Theater, Tanz, Zirkus"@de, "Performing arts: film, theater, dance, circus"@en ;
+    skos:altLabel "JK.T Darstellende Kunst: Film, Theater, Tanz, Zirkus"@de, "JK.T Performing arts: film, theater, dance, circus"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jkv a skos:Concept ;
+    skos:prefLabel "Vermischte Schriften"@de, "Miscellany"@en ;
+    skos:altLabel "JK.V Vermischte Schriften"@de, "JK.V Miscellany"@en ;
+    skos:broader oesoeb:jk ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jl a skos:Concept ;
     skos:prefLabel "Lyrik"@de, "Poetry"@en ;
     skos:altLabel "JL Lyrik"@de, "JL Poetry"@en ;
@@ -649,6 +775,30 @@ oesoeb:jm a skos:Concept ;
     skos:prefLabel "Märchen, Sagen"@de, "Fairy tales, legends"@en ;
     skos:altLabel "JM Märchen, Sagen"@de, "JM Fairy tales, legends"@en ;
     skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jmm a skos:Concept ;
+    skos:prefLabel "Klassische Märchen, Fabeln"@de, "Classic fairy tales, fables"@en ;
+    skos:altLabel "JM.M Klassische Märchen, Fabeln"@de, "JM.M Classic fairy tales, fables"@en ;
+    skos:broader oesoeb:jm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jmml a skos:Concept ;
+    skos:prefLabel "Märchen aus aller Welt"@de, "Fairy tales from all over the world"@en ;
+    skos:altLabel "JM.ML Märchen aus aller Welt"@de, "JM.ML Fairy tales from all over the world"@en ;
+    skos:broader oesoeb:jmm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jms a skos:Concept ;
+    skos:prefLabel "Sagen, Legenden"@de, "Sayings, legends"@en ;
+    skos:altLabel "JM.S Sagen, Legenden"@de, "JM.S Sayings, legends"@en ;
+    skos:broader oesoeb:jm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jmsp a skos:Concept ;
+    skos:prefLabel "Religiöse Sagen und Legenden"@de, "Religious sagas and legends"@en ;
+    skos:altLabel "JM.SP Religiöse Sagen und Legenden"@de, "JM.SP Religious sagas and legends"@en ;
+    skos:broader oesoeb:jms ;
     skos:inScheme oesoeb: .
 
 oesoeb:jn a skos:Concept ;
