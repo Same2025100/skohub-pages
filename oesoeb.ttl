@@ -27,6 +27,12 @@ oesoeb:jb a skos:Concept ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jba a skos:Concept ;
+    skos:prefLabel "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"@de, "General collected biographies from various subject areas"@en ;
+    skos:altLabel "JB.A Allgemeine Sammelbiographien aus verschiedenen Themenbereichen "@de, "JB.A General collected biographies from various subject areas"@en ;
+    skos:broader oesoeb:jb ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jc a skos:Concept ;
     skos:prefLabel "Comics und Graphic Novels"@de, "Comics and Graphic novels"@en ;
     skos:altLabel "JC Comics und Graphic Novels"@de, "JC Comics and Graphic Novels"@en ;
