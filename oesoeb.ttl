@@ -183,6 +183,36 @@ oesoeb:jdt a skos:Concept ;
     skos:broader oesoeb:jd ;
     skos:inScheme oesoeb: .
 
+oesoeb:jdtb a skos:Concept ;
+    skos:prefLabel "Beziehung"@de, "Relationship"@en ;
+    skos:altLabel "JD.TB Beziehung"@de, "JD.TB Relationship"@en ;
+    skos:broader oesoeb:jdt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdtg a skos:Concept ;
+    skos:prefLabel "Gefühle"@de, "Feelings"@en ;
+    skos:altLabel "JD.TG Gefühle"@de, "JD.TG Feelings"@en ;
+    skos:broader oesoeb:jdt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdtk a skos:Concept ;
+    skos:prefLabel "Krankheit und Behinderung"@de, "Illness and disability"@en ;
+    skos:altLabel "JD.TK Krankheit und Behinderung"@de, "JD.TK Illness and disability"@en ;
+    skos:broader oesoeb:jdt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdts a skos:Concept ;
+    skos:prefLabel "Schule und Kindergarten"@de, "School and kindergarten"@en ;
+    skos:altLabel "JD.TS Schule und Kindergarten"@de, "JD.TS School and kindergarten"@en ;
+    skos:broader oesoeb:jdt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdtt a skos:Concept ;
+    skos:prefLabel "Trennung"@de, "Separation"@en ;
+    skos:altLabel "JD.TT Trennung"@de, "JD.TT Separation"@en ;
+    skos:broader oesoeb:jdt ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jdw a skos:Concept ;
     skos:prefLabel "Wimmel-Bilderbücher"@de, "Hidden object picture books"@en ;
     skos:altLabel "JD.W Wimmel-Bilderbücher"@de, "JD.W Hidden object picture books"@en ;
@@ -193,6 +223,18 @@ oesoeb:jdx a skos:Concept ;
     skos:prefLabel "Feste im Jahreslauf"@de, "Festivals throughout the year"@en ;
     skos:altLabel "JD.X Feste im Jahreslauf"@de, "JD.X Festivals throughout the year"@en ;
     skos:broader oesoeb:jd ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdxo a skos:Concept ;
+    skos:prefLabel "Ostern"@de, "Easter"@en ;
+    skos:altLabel "JD.XO Ostern"@de, "JD.XO Easter"@en ;
+    skos:broader oesoeb:jdx ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdxw a skos:Concept ;
+    skos:prefLabel "Weihnachten"@de, "Christmas"@en ;
+    skos:altLabel "JD.XW Weihnachten"@de, "JD.XW Christmas"@en ;
+    skos:broader oesoeb:jdx ;
     skos:inScheme oesoeb: .
 
 oesoeb:jdz a skos:Concept ;
