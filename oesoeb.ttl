@@ -44,3 +44,21 @@ oesoeb:jcg a skos:Concept ;
     skos:altLabel "JC.G Graphic Novels"@de, "JC.G Graphic Novels"@en ;
     skos:broader oesoeb:jc ;
     skos:inScheme oesoeb: .
+
+oesoeb:jck a skos:Concept ;
+    skos:prefLabel "Cartoons, Karikaturen"@de, "Cartoons"@en ;
+    skos:altLabel "JC.K Cartoons, Karikaturen"@de, "JC.K Cartoons"@en ;
+    skos:broader oesoeb:jc ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jcm a skos:Concept ;
+    skos:prefLabel "Mangas"@de, "Mangas"@en ;
+    skos:altLabel "JC.M Mangas"@de, "JC.M Mangas"@en ;
+    skos:broader oesoeb:jc ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jcs a skos:Concept ;
+    skos:prefLabel "Sachcomics"@de, "Non-fiction comics"@en ;
+    skos:altLabel "JC.S Sachcomics"@de, "JC.S Non-fiction comics"@en ;
+    skos:broader oesoeb:jc ;
+    skos:inScheme oesoeb: .
