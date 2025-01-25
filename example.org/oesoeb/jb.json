@@ -20,6 +20,13 @@
         "en": "General collected biographies from various subject areas",
         "de": "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"
       }
+    },
+    {
+      "id": "https://example.org/oesoeb/jbsys",
+      "prefLabel": {
+        "en": "Biographies for children and young people from individual subject areas",
+        "de": "Biografien für Kinder und Jugendliche aus einzelnen Themenbereichen"
+      }
     }
   ],
   "broader": {
