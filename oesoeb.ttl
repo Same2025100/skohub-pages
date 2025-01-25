@@ -99,6 +99,48 @@ oesoeb:jdjg a skos:Concept ;
     skos:broader oesoeb:jdj ;
     skos:inScheme oesoeb: .
 
+oesoeb:jdjk a skos:Concept ;
+    skos:prefLabel "Kunst, Literatur, Lied, Tanz"@de, "Art, literature, song, dance"@en ;
+    skos:altLabel "JD.JK Kunst, Literatur, Lied, Tanz"@de, "JD.JK Art, literature, song, dance"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdjn a skos:Concept ;
+    skos:prefLabel "Naturwissenschaften"@de, "Natural sciences"@en ;
+    skos:altLabel "JD.JN Naturwissenschaften"@de, "JD.JN Natural sciences"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdjp a skos:Concept ;
+    skos:prefLabel "Religion, Philosophie"@de, "Religion, philosophy"@en ;
+    skos:altLabel "JD.JP Religion, Philosophie"@de, "JD.JP Religion, philosophy"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdjr a skos:Concept ;
+    skos:prefLabel "Reisen, Kulturen"@de, "Travel, cultures"@en ;
+    skos:altLabel "JD.JR Reisen, Kulturen"@de, "JD.JR Travel, cultures"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdjs a skos:Concept ;
+    skos:prefLabel "Freizeit, Hobbies"@de, "Leisure, hobbies"@en ;
+    skos:altLabel "JD.JS Freizeit, Hobbies"@de, "JD.JS Leisure, hobbies"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdjt a skos:Concept ;
+    skos:prefLabel "Technik"@de, "Technology"@en ;
+    skos:altLabel "JD.JT Technik"@de, "JD.JT Technology"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jdjv a skos:Concept ;
+    skos:prefLabel "Vermischtes"@de, "Miscellaneous"@en ;
+    skos:altLabel "JD.JV Vermischtes"@de, "JD.JV Miscellaneous"@en ;
+    skos:broader oesoeb:jdj ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jdk a skos:Concept ;
     skos:prefLabel "Bilderbücher für die Kleinsten"@de, "Picture books for the little ones"@en ;
     skos:altLabel "JD.K Bilderbücher für die Kleinsten"@de, "JD.K Picture books for the little ones"@en ;
