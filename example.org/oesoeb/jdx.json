@@ -13,6 +13,22 @@
       "JD.X Feste im Jahreslauf"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jdxo",
+      "prefLabel": {
+        "en": "Easter",
+        "de": "Ostern"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jdxw",
+      "prefLabel": {
+        "en": "Christmas",
+        "de": "Weihnachten"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/jd",
     "prefLabel": {

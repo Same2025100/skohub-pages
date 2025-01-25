@@ -1,60 +1,23 @@
 {
-  "id": "https://example.org/oesoeb/jdt",
+  "id": "https://example.org/oesoeb/jdtb",
   "type": "Concept",
   "prefLabel": {
-    "en": "Thematic and problem-oriented picture books",
-    "de": "Themen- und problemorientierte Bilderbücher"
+    "en": "Relationship",
+    "de": "Beziehung"
   },
   "altLabel": {
     "en": [
-      "JD.T Thematic and problem-oriented picture books"
+      "JD.TB Relationship"
     ],
     "de": [
-      "JD.T Themen- und problemorientierte Bilderbücher"
+      "JD.TB Beziehung"
     ]
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/jdtb",
-      "prefLabel": {
-        "en": "Relationship",
-        "de": "Beziehung"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jdtg",
-      "prefLabel": {
-        "en": "Feelings",
-        "de": "Gefühle"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jdtk",
-      "prefLabel": {
-        "en": "Illness and disability",
-        "de": "Krankheit und Behinderung"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jdts",
-      "prefLabel": {
-        "en": "School and kindergarten",
-        "de": "Schule und Kindergarten"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jdtt",
-      "prefLabel": {
-        "en": "Separation",
-        "de": "Trennung"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/oesoeb/jd",
+    "id": "https://example.org/oesoeb/jdt",
     "prefLabel": {
-      "en": "Picture  books",
-      "de": "Bilderbücher"
+      "en": "Thematic and problem-oriented picture books",
+      "de": "Themen- und problemorientierte Bilderbücher"
     }
   },
   "inScheme": [
