@@ -1,146 +1,25 @@
 {
-  "id": "https://example.org/oesoeb/j",
+  "id": "https://example.org/oesoeb/jv",
   "type": "Concept",
   "prefLabel": {
-    "en": "Children’s and young adult media",
-    "de": "Kinder- und Jugendmedien"
+    "en": "Other subject matters",
+    "de": "Sonstige Sachthemen"
   },
   "altLabel": {
     "en": [
-      "J Children's and youth literature"
+      "JV Other subject matters"
     ],
     "de": [
-      "J Kinder- und Jugendliteratur"
+      "JV Sonstige Sachthemen"
     ]
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/ja",
-      "prefLabel": {
-        "en": "General",
-        "de": "Allgemeines"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jb",
-      "prefLabel": {
-        "en": "Biographies for children and young adults",
-        "de": "Biografien für Kinder und Jugendliche"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jc",
-      "prefLabel": {
-        "en": "Comics and Graphic novels",
-        "de": "Comics und Graphic Novels"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jd",
-      "prefLabel": {
-        "en": "Picture  books",
-        "de": "Bilderbücher"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/je",
-      "prefLabel": {
-        "en": "Stories and novels",
-        "de": "Erzählungen und Romane"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jf",
-      "prefLabel": {
-        "en": "Foreign language literature",
-        "de": "Fremdsprachige Literatur"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jg",
-      "prefLabel": {
-        "en": "History, society",
-        "de": "Geschichte, Gesellschaft"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jh",
-      "prefLabel": {
-        "en": "Plays",
-        "de": "Theaterstücke"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jk",
-      "prefLabel": {
-        "en": "Art, literature",
-        "de": "Kunst, Literatur"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jl",
-      "prefLabel": {
-        "en": "Poetry",
-        "de": "Lyrik"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jm",
-      "prefLabel": {
-        "en": "Fairy tales, legends",
-        "de": "Märchen, Sagen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jn",
-      "prefLabel": {
-        "en": "Nature and man",
-        "de": "Natur und Mensch"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jp",
-      "prefLabel": {
-        "en": "Psychology, pedagogy, religion, philosophy",
-        "de": "Psychologie, Pädagogik, Religion, Philosophie"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jr",
-      "prefLabel": {
-        "en": "Travel, geography, cultures",
-        "de": "Reisen, Geographie, Kulturen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/js",
-      "prefLabel": {
-        "en": "Sports, leisure, hobbies",
-        "de": "Sport, Freizeit, Hobbies"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jt",
-      "prefLabel": {
-        "en": "Technology",
-        "de": "Technik"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jv",
-      "prefLabel": {
-        "en": "Other subject matters",
-        "de": "Sonstige Sachthemen"
-      }
-    },
-    {
-      "id": "https://example.org/oesoeb/jw",
-      "prefLabel": {
-        "en": "Education and career",
-        "de": "Ausbildung und Beruf"
-      }
+  "broader": {
+    "id": "https://example.org/oesoeb/j",
+    "prefLabel": {
+      "en": "Children’s and young adult media",
+      "de": "Kinder- und Jugendmedien"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://example.org/oesoeb/",
@@ -153,15 +32,6 @@
   "inSchemeAll": [
     {
       "id": "https://example.org/oesoeb/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/oesoeb/",
-      "title": {
-        "en": "Austrian classification for public libraries",
-        "de": "Österreichische Systematik Öffentlicher Bibliotheken"
-      }
     }
   ],
   "@context": {
