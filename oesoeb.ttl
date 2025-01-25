@@ -807,10 +807,280 @@ oesoeb:jn a skos:Concept ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jnb a skos:Concept ;
+    skos:prefLabel "Biologie"@de, "Biology"@en ;
+    skos:altLabel "JN.B Biologie"@de, "JN.B Biology"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnbe a skos:Concept ;
+    skos:prefLabel "Evolution"@de, "Evolution"@en ;
+    skos:altLabel "JN.BE Evolution"@de, "JN.BE Evolution"@en ;
+    skos:broader oesoeb:jnb ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnbg a skos:Concept ;
+    skos:prefLabel "Gentechnik"@de, "Genetic engineering"@en ;
+    skos:altLabel "JN.BG Gentechnik"@de, "JN.BG Genetic engineering"@en ;
+    skos:broader oesoeb:jnb ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnbl a skos:Concept ;
+    skos:prefLabel "Lebensräume"@de, "Habitats"@en ;
+    skos:altLabel "JN.BL Lebensräume"@de, "JN.BL Habitats"@en ;
+    skos:broader oesoeb:jnb ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnbu a skos:Concept ;
+    skos:prefLabel "Umwelt- und Artenschutz"@de, "Environmental and species protection"@en ;
+    skos:altLabel "JN.BU Umwelt- und Artenschutz"@de, "JN.BU Environmental and species protection"@en ;
+    skos:broader oesoeb:jnb ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnc a skos:Concept ;
+    skos:prefLabel "Chemie"@de, "Chemistry"@en ;
+    skos:altLabel "JN.C Chemie"@de, "JN.C Chemistry"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jne a skos:Concept ;
+    skos:prefLabel "Erde, Geologie, Naturkatastrophen"@de, "Earth, geology, natural disasters"@en ;
+    skos:altLabel "JN.E Erde, Geologie, Naturkatastrophen"@de, "JN.E Earth, geology, natural disasters"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jneg a skos:Concept ;
+    skos:prefLabel "Mineralogie, Geologie"@de, "Mineralogy, geology"@en ;
+    skos:altLabel "JN.EG Mineralogie, Geologie"@de, "JN.EG Mineralogy, geology"@en ;
+    skos:broader oesoeb:jne ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnew a skos:Concept ;
+    skos:prefLabel "Wetterkunde"@de, "Weather science"@en ;
+    skos:altLabel "JN.EW Wetterkunde"@de, "JN.EW Weather science"@en ;
+    skos:broader oesoeb:jne ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnf a skos:Concept ;
+    skos:prefLabel "Pflanzen"@de, "Plants"@en ;
+    skos:altLabel "JN.F Pflanzen"@de, "JN.F Plants"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnm a skos:Concept ;
+    skos:prefLabel "Mensch"@de, "Human"@en ;
+    skos:altLabel "JN.M Mensch"@de, "JN.M Human"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnma a skos:Concept ;
+    skos:prefLabel "Sexualität, Pubertät"@de, "Sexuality, puberty"@en ;
+    skos:altLabel "JN.MA Sexualität, Pubertät"@de, "JN.MA Sexuality, puberty"@en ;
+    skos:broader oesoeb:jnm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnme a skos:Concept ;
+    skos:prefLabel "Entspannung, Meditation"@de, "Relaxation, meditation"@en ;
+    skos:altLabel "JN.ME Entspannung, Meditation"@de, "JN.ME Relaxation, meditation"@en ;
+    skos:broader oesoeb:jnm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnmk a skos:Concept ;
+    skos:prefLabel "Gesundheit, Krankheit"@de, "Health, illness"@en ;
+    skos:altLabel "JN.MK Gesundheit, Krankheit"@de, "JN.MK Health, illness"@en ;
+    skos:broader oesoeb:jnm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnms a skos:Concept ;
+    skos:prefLabel "Sucht, Drogen"@de, "Addiction, drugs"@en ;
+    skos:altLabel "JN.MS Sucht, Drogen"@de, "JN.MS Addiction, drugs"@en ;
+    skos:broader oesoeb:jnm ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnp a skos:Concept ;
+    skos:prefLabel "Physik"@de, "Physics"@en ;
+    skos:altLabel "JN.P Physik"@de, "JN.P Physics"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JN.Q Biographien"@de, "JN.Q Biographies"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnr a skos:Concept ;
+    skos:prefLabel "Methoden, Experimente"@de, "Methods, experiments"@en ;
+    skos:altLabel "JN.R Methoden, Experimente"@de, "JN.R Methods, experiments"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jns a skos:Concept ;
+    skos:prefLabel "Weltall, Astronomie, Raumfahrt"@de, "Space, astronomy, space travel"@en ;
+    skos:altLabel "JN.S Weltall, Astronomie, Raumfahrt"@de, "JN.S Space, astronomy, space travel"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnt a skos:Concept ;
+    skos:prefLabel "Tiere"@de, "Animals"@en ;
+    skos:altLabel "JN.T Tiere"@de, "JN.T Animals"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jntd a skos:Concept ;
+    skos:prefLabel "Dinosaurier, prähistorische Tiere"@de, "Dinosaurs, prehistoric animals"@en ;
+    skos:altLabel "JN.TD Dinosaurier, prähistorische Tiere"@de, "JN.TD Dinosaurs, prehistoric animals"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jntf a skos:Concept ;
+    skos:prefLabel "Fische, Meeressäuger"@de, "Fish, marine mammals"@en ;
+    skos:altLabel "JN.TF Fische, Meeressäuger"@de, "JN.TF Fish, marine mammals"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnth a skos:Concept ;
+    skos:prefLabel "Haustiere"@de, "Pets"@en ;
+    skos:altLabel "JN.TH Haustiere"@de, "JN.TH Pets"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jntr a skos:Concept ;
+    skos:prefLabel "Reptilien, Amphibien"@de, "Reptiles, amphibians"@en ;
+    skos:altLabel "JN.TR Reptilien, Amphibien"@de, "JN.TR Reptiles, amphibians"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnts a skos:Concept ;
+    skos:prefLabel "Säugetiere"@de, "Mammals"@en ;
+    skos:altLabel "JN.TS Säugetiere"@de, "JN.TS Mammals"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jntv a skos:Concept ;
+    skos:prefLabel "Vögel"@de, "Aves"@en ;
+    skos:altLabel "JN.TV Vögel"@de, "JN.TV Aves"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jntw a skos:Concept ;
+    skos:prefLabel "Wirbellose Tiere"@de, "Invertebrates"@en ;
+    skos:altLabel "JN.TW Wirbellose Tiere"@de, "JN.TW Invertebrates"@en ;
+    skos:broader oesoeb:jnt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jnv a skos:Concept ;
+    skos:prefLabel "Vermischte Schriften"@de, "Miscellany"@en ;
+    skos:altLabel "JN.V Vermischte Schriften"@de, "JN.V Miscellany"@en ;
+    skos:broader oesoeb:jn ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jp a skos:Concept ;
     skos:prefLabel "Psychologie, Pädagogik, Religion, Philosophie"@de, "Psychology, pedagogy, religion, philosophy"@en ;
     skos:altLabel "JP Psychologie, Pädagogik, Religion, Philosophie"@de, "JP Psychology, pedagogy, religion, philosophy"@en ;
     skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpe a skos:Concept ;
+    skos:prefLabel "Pädagogik"@de, "Pedagogy"@en ;
+    skos:altLabel "JP.E Pädagogik"@de, "JP.E Pedagogy"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpf a skos:Concept ;
+    skos:prefLabel "Philosophie, Ideengeschichte"@de, "Philosophy, history of ideas"@en ;
+    skos:altLabel "JP.F Philosophie, Ideengeschichte"@de, "JP.F Philosophy, history of ideas"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpo a skos:Concept ;
+    skos:prefLabel "Esoterik, Okkultismus, Astrologie"@de, "Esotericism, occultism, astrology"@en ;
+    skos:altLabel "JP.O Esoterik, Okkultismus, Astrologie"@de, "JP.O Esotericism, occultism, astrology"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpp a skos:Concept ;
+    skos:prefLabel "Psychologie"@de, "Psychology"@en ;
+    skos:altLabel "JP.P Psychologie"@de, "JP.P Psychology"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jppg a skos:Concept ;
+    skos:prefLabel "Gewalt"@de, "Violence"@en ;
+    skos:altLabel "JP.PG Gewalt"@de, "JP.PG Violence"@en ;
+    skos:broader oesoeb:jpp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JP.Q Biographien"@de, "JP.Q Biographies"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpr a skos:Concept ;
+    skos:prefLabel "Religionen, Mythen"@de, "Religions, myths"@en ;
+    skos:altLabel "JP.R Religionen, Mythen"@de, "JP.R Religions, myths"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jprb a skos:Concept ;
+    skos:prefLabel "Buddhismus"@de, "Buddhism"@en ;
+    skos:altLabel "JP.RB Buddhismus"@de, "JP.RB Buddhism"@en ;
+    skos:broader oesoeb:jpr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jprc a skos:Concept ;
+    skos:prefLabel "Christentum"@de, "Christianity"@en ;
+    skos:altLabel "JP.RC Christentum"@de, "JP.RC Christianity"@en ;
+    skos:broader oesoeb:jpr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jprh a skos:Concept ;
+    skos:prefLabel "Hinduismus"@de, "Hinduism"@en ;
+    skos:altLabel "JP.RH Hinduismus"@de, "JP.RH Hinduism"@en ;
+    skos:broader oesoeb:jpr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpri a skos:Concept ;
+    skos:prefLabel "Islam"@de, "Islam"@en ;
+    skos:altLabel "JP.RI Islam"@de, "JP.RI Islam"@en ;
+    skos:broader oesoeb:jpr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jprj a skos:Concept ;
+    skos:prefLabel "Judentum"@de, "Judaism"@en ;
+    skos:altLabel "JP.RJ Judentum"@de, "JP.RJ Judaism"@en ;
+    skos:broader oesoeb:jpr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpro a skos:Concept ;
+    skos:prefLabel "Weitere Religionen, religiöse Gruppen und Sekten"@de, "Other religions, religious groups and sects"@en ;
+    skos:altLabel "JP.RO Weitere Religionen, religiöse Gruppen und Sekten"@de, "JP.RO Other religions, religious groups and sects"@en ;
+    skos:broader oesoeb:jpr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpv a skos:Concept ;
+    skos:prefLabel "Vermischte Schriften"@de, "Miscellany"@en ;
+    skos:altLabel "JP.V Vermischte Schriften"@de, "JP.V Miscellany"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpx a skos:Concept ;
+    skos:prefLabel "Feste im Jahreslauf"@de, "Festivals throughout the year"@en ;
+    skos:altLabel "JP.X Feste im Jahreslauf"@de, "JP.X Festivals throughout the year"@en ;
+    skos:broader oesoeb:jp ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpxo a skos:Concept ;
+    skos:prefLabel "Ostern"@de, "Easter"@en ;
+    skos:altLabel "JP.XO Ostern"@de, "JP.XO Easter"@en ;
+    skos:broader oesoeb:jpx ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jpxw a skos:Concept ;
+    skos:prefLabel "Weihnachten"@de, "Christmas"@en ;
+    skos:altLabel "JP.XW Weihnachten"@de, "JP.XW Christmas"@en ;
+    skos:broader oesoeb:jpx ;
     skos:inScheme oesoeb: .
 
 oesoeb:jr a skos:Concept ;
@@ -819,10 +1089,148 @@ oesoeb:jr a skos:Concept ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jra a skos:Concept ;
+    skos:prefLabel "Karten, Atlanten"@de, "Maps, atlases"@en ;
+    skos:altLabel "JR.A Karten, Atlanten"@de, "JR.A Maps, atlases"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jre a skos:Concept ;
+    skos:prefLabel "Europa"@de, "Europe"@en ;
+    skos:altLabel "JR.E Europa"@de, "JR.E Europe"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jreo a skos:Concept ;
+    skos:prefLabel "Österreich"@de, "Austria"@en ;
+    skos:altLabel "JR.EO Österreich"@de, "JR.EO Austria"@en ;
+    skos:broader oesoeb:jre ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jrf a skos:Concept ;
+    skos:prefLabel "Afrika"@de, "Africa"@en ;
+    skos:altLabel "JR.F Afrika"@de, "JR.F Africa"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jri a skos:Concept ;
+    skos:prefLabel "Asien"@de, "Asia"@en ;
+    skos:altLabel "JR.I Asien"@de, "JR.I Asia"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jrl a skos:Concept ;
+    skos:prefLabel "Australien, Ozeanien"@de, "Australia, Oceania"@en ;
+    skos:altLabel "JR.L Australien, Ozeanien"@de, "JR.L Australia, Oceania"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jrm a skos:Concept ;
+    skos:prefLabel "Amerika"@de, "America"@en ;
+    skos:altLabel "JR.M Amerika"@de, "JR.M America"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jrp a skos:Concept ;
+    skos:prefLabel "Polargebiete"@de, "Polar regions"@en ;
+    skos:altLabel "JR.P Polargebietea"@de, "JR.P Polar regions"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jrq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JR.Q Biographien"@de, "JR.Q Biographies"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jrv a skos:Concept ;
+    skos:prefLabel "Vermischte Schriften"@de, "Miscellany"@en ;
+    skos:altLabel "JR.V Vermischte Schriften"@de, "JR.V Miscellany"@en ;
+    skos:broader oesoeb:jr ;
+    skos:inScheme oesoeb: .
+
 oesoeb:js a skos:Concept ;
     skos:prefLabel "Sport, Freizeit, Hobbies"@de, "Sports, leisure, hobbies"@en ;
     skos:altLabel "JS Sport, Freizeit, Hobbies"@de, "JS Sports, leisure, hobbies"@en ;
     skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsb a skos:Concept ;
+    skos:prefLabel "Basteln"@de, "Craft"@en ;
+    skos:altLabel "JS.B Basteln"@de, "JS.B Craft"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsf a skos:Concept ;
+    skos:prefLabel "Spiele"@de, "Games"@en ;
+    skos:altLabel "JS.F Spiele"@de, "JS.F Games"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsi a skos:Concept ;
+    skos:prefLabel "Rätsel, Quiz"@de, "Puzzles, quizzes"@en ;
+    skos:altLabel "JS.I Rätsel, Quiz"@de, "JS.I Puzzles, quizzes"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsk a skos:Concept ;
+    skos:prefLabel "Künstlerische Hobbies"@de, "Artistic hobbies"@en ;
+    skos:altLabel "JS.K Künstlerische Hobbies"@de, "JS.K Artistic hobbies"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JS.Q Biographien"@de, "JS.Q Biographies"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jss a skos:Concept ;
+    skos:prefLabel "Sport, Bewegung"@de, "Sport, exercise"@en ;
+    skos:altLabel "JS.S Sport, Bewegung"@de, "JS.S Sport, exercise"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jssf a skos:Concept ;
+    skos:prefLabel "Fußball"@de, "Soccer"@en ;
+    skos:altLabel "JS.SF Fußball"@de, "JS.SF Soccer"@en ;
+    skos:broader oesoeb:jss ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jssr a skos:Concept ;
+    skos:prefLabel "Reiten"@de, "Riding"@en ;
+    skos:altLabel "JS.SR Reiten"@de, "JS.SR Riding"@en ;
+    skos:broader oesoeb:jss ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsu a skos:Concept ;
+    skos:prefLabel "Zaubern"@de, "Magic"@en ;
+    skos:altLabel "JS.U Zaubern"@de, "JS.U Magic"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsv a skos:Concept ;
+    skos:prefLabel "Vermischte Schriften"@de, "Miscellany"@en ;
+    skos:altLabel "JS.V Vermischte Schriften"@de, "JS.V Miscellany"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsx a skos:Concept ;
+    skos:prefLabel "Feste im Jahreslauf"@de, "Festivals throughout the year"@en ;
+    skos:altLabel "JS.X Feste im Jahreslauf"@de, "JS.X Festivals throughout the year"@en ;
+    skos:broader oesoeb:js ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsxo a skos:Concept ;
+    skos:prefLabel "Ostern"@de, "Easter"@en ;
+    skos:altLabel "JS.XO Ostern"@de, "JS.XO Easter"@en ;
+    skos:broader oesoeb:jsx ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jsxw a skos:Concept ;
+    skos:prefLabel "Weihnachten"@de, "Christmas"@en ;
+    skos:altLabel "JS.XW Weihnachten"@de, "JS.XW Weihnachten"@en ;
+    skos:broader oesoeb:jsx ;
     skos:inScheme oesoeb: .
 
 oesoeb:jt a skos:Concept ;
@@ -831,14 +1239,117 @@ oesoeb:jt a skos:Concept ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jtc a skos:Concept ;
+    skos:prefLabel "Computer, Elektronik"@de, "Computers, electronics"@en ;
+    skos:altLabel "JT.C Computer, Elektronik"@de, "JT.C Computers, electronics"@en ;
+    skos:broader oesoeb:jt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jte a skos:Concept ;
+    skos:prefLabel "Energie"@de, "Energy"@en ;
+    skos:altLabel "JT.E Energie"@de, "JT.E Energy"@en ;
+    skos:broader oesoeb:jt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jtk a skos:Concept ;
+    skos:prefLabel "Verkehr"@de, "Traffic"@en ;
+    skos:altLabel "JT.K Verkehr"@de, "JT.K Traffic"@en ;
+    skos:broader oesoeb:jt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jtq a skos:Concept ;
+    skos:prefLabel "Biographien"@de, "Biographies"@en ;
+    skos:altLabel "JT.Q Biographien"@de, "JT.Q Biographies"@en ;
+    skos:broader oesoeb:jt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jtt a skos:Concept ;
+    skos:prefLabel "Kommunikation, Schrift, Medien, Fototechnik"@de, "Communication, writing, media, photo technology"@en ;
+    skos:altLabel "JT.T Kommunikation, Schrift, Medien, Fototechnik"@de, "JT.T Communication, writing, media, photo technology"@en ;
+    skos:broader oesoeb:jt ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jtv a skos:Concept ;
+    skos:prefLabel "Vermischte Schriften"@de, "Miscellany"@en ;
+    skos:altLabel "JT.V Vermischte Schriften"@de, "JT.V Miscellany"@en ;
+    skos:broader oesoeb:jt ;
+    skos:inScheme oesoeb: .
+
+
 oesoeb:jv a skos:Concept ;
     skos:prefLabel "Sonstige Sachthemen"@de, "Other subject matters"@en ;
     skos:altLabel "JV Sonstige Sachthemen"@de, "JV Other subject matters"@en ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jvb a skos:Concept ;
+    skos:prefLabel "Lebenswelt, Alltag"@de, "Lifeworld, everyday life"@en ;
+    skos:altLabel "JV.B Lebenswelt, Alltag"@de, "JV.B Lifeworld, everyday life"@en ;
+    skos:broader oesoeb:jv ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jvk a skos:Concept ;
+    skos:prefLabel "Ernährung, Kochen"@de, "Nutrition, cooking"@en ;
+    skos:altLabel "JV.K Ernährung, Kochen"@de, "JV.K Nutrition, cooking"@en ;
+    skos:broader oesoeb:jv ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jvr a skos:Concept ;
+    skos:prefLabel "Ratgeber für Kinder und Jugendliche"@de, "Guide for children and young people"@en ;
+    skos:altLabel "JV.R Ratgeber für Kinder und Jugendliche"@de, "JV.R Guide for children and young people"@en ;
+    skos:broader oesoeb:jv ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jvs a skos:Concept ;
+    skos:prefLabel "Sprache, Sprachspiele, Sprechübungen"@de, "Language, language games, speaking exercises"@en ;
+    skos:altLabel "JV.S Sprache, Sprachspiele, Sprechübungen"@de, "JV.S Language, language games, speaking exercises"@en ;
+    skos:broader oesoeb:jv ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jw a skos:Concept ;
     skos:prefLabel "Ausbildung und Beruf"@de, "Education and career"@en ;
     skos:altLabel "JW Ausbildung und Beruf"@de, "JW Education and career"@en ;
     skos:broader oesoeb:j ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwl a skos:Concept ;
+    skos:prefLabel "Lernen, Schule"@de, "Learning, school"@en ;
+    skos:altLabel "JW.L Lernen, Schule"@de, "JW.L Learning, school"@en ;
+    skos:broader oesoeb:jw ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwla a skos:Concept ;
+    skos:prefLabel "Vorschule"@de, "Preschool"@en ;
+    skos:altLabel "JW.LA Vorschule"@de, "JW.LA Preschool"@en ;
+    skos:broader oesoeb:jwl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwld a skos:Concept ;
+    skos:prefLabel "Deustch"@de, "German"@en ;
+    skos:altLabel "JW.LD Deutsch"@de, "JW.LD German"@en ;
+    skos:broader oesoeb:jwl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwle a skos:Concept ;
+    skos:prefLabel "Englisch"@de, "English"@en ;
+    skos:altLabel "JW.LE Englisch"@de, "JW.LE English"@en ;
+    skos:broader oesoeb:jwl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwlm a skos:Concept ;
+    skos:prefLabel "Mathematik"@de, "Mathematics"@en ;
+    skos:altLabel "JW.LM Mathematik"@de, "JW.LM Mathematics"@en ;
+    skos:broader oesoeb:jwl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwlo a skos:Concept ;
+    skos:prefLabel "Andere Fächer"@de, "Other subjects"@en ;
+    skos:altLabel "JW.LO Andere Fächer"@de, "JW.LO Other subjects"@en ;
+    skos:broader oesoeb:jwl ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jwo a skos:Concept ;
+    skos:prefLabel "Berufsorientierung"@de, "Career orientation"@en ;
+    skos:altLabel "JW.O Berufsorientierung"@de, "JW.O Career orientation"@en ;
+    skos:broader oesoeb:jw ;
     skos:inScheme oesoeb: .
