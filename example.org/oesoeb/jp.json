@@ -13,6 +13,64 @@
       "JP Psychologie, Pädagogik, Religion, Philosophie"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jpe",
+      "prefLabel": {
+        "en": "Pedagogy",
+        "de": "Pädagogik"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpf",
+      "prefLabel": {
+        "en": "Philosophy, history of ideas",
+        "de": "Philosophie, Ideengeschichte"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpo",
+      "prefLabel": {
+        "en": "Esotericism, occultism, astrology",
+        "de": "Esoterik, Okkultismus, Astrologie"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpp",
+      "prefLabel": {
+        "en": "Psychology",
+        "de": "Psychologie"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpr",
+      "prefLabel": {
+        "en": "Religions, myths",
+        "de": "Religionen, Mythen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpv",
+      "prefLabel": {
+        "en": "Miscellany",
+        "de": "Vermischte Schriften"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jpx",
+      "prefLabel": {
+        "en": "Festivals throughout the year",
+        "de": "Feste im Jahreslauf"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

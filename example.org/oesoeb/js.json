@@ -13,6 +13,71 @@
       "JS Sport, Freizeit, Hobbies"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jsb",
+      "prefLabel": {
+        "en": "Craft",
+        "de": "Basteln"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsf",
+      "prefLabel": {
+        "en": "Games",
+        "de": "Spiele"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsi",
+      "prefLabel": {
+        "en": "Puzzles, quizzes",
+        "de": "Rätsel, Quiz"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsk",
+      "prefLabel": {
+        "en": "Artistic hobbies",
+        "de": "Künstlerische Hobbies"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jss",
+      "prefLabel": {
+        "en": "Sport, exercise",
+        "de": "Sport, Bewegung"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsu",
+      "prefLabel": {
+        "en": "Magic",
+        "de": "Zaubern"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsv",
+      "prefLabel": {
+        "en": "Miscellany",
+        "de": "Vermischte Schriften"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jsx",
+      "prefLabel": {
+        "en": "Festivals throughout the year",
+        "de": "Feste im Jahreslauf"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

@@ -13,6 +13,22 @@
       "JW Ausbildung und Beruf"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jwl",
+      "prefLabel": {
+        "en": "Learning, school",
+        "de": "Lernen, Schule"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jwo",
+      "prefLabel": {
+        "en": "Career orientation",
+        "de": "Berufsorientierung"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

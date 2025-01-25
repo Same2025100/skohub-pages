@@ -13,6 +13,71 @@
       "JR Reisen, Geographie, Kulturen"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jra",
+      "prefLabel": {
+        "en": "Maps, atlases",
+        "de": "Karten, Atlanten"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jre",
+      "prefLabel": {
+        "en": "Europe",
+        "de": "Europa"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jrf",
+      "prefLabel": {
+        "en": "Africa",
+        "de": "Afrika"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jri",
+      "prefLabel": {
+        "en": "Asia",
+        "de": "Asien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jrl",
+      "prefLabel": {
+        "en": "Australia, Oceania",
+        "de": "Australien, Ozeanien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jrm",
+      "prefLabel": {
+        "en": "America",
+        "de": "Amerika"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jrp",
+      "prefLabel": {
+        "en": "Polar regions",
+        "de": "Polargebiete"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jrq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jrv",
+      "prefLabel": {
+        "en": "Miscellany",
+        "de": "Vermischte Schriften"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

@@ -13,6 +13,50 @@
       "JT Technik"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jtc",
+      "prefLabel": {
+        "en": "Computers, electronics",
+        "de": "Computer, Elektronik"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jte",
+      "prefLabel": {
+        "en": "Energy",
+        "de": "Energie"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jtk",
+      "prefLabel": {
+        "en": "Traffic",
+        "de": "Verkehr"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jtq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jtt",
+      "prefLabel": {
+        "en": "Communication, writing, media, photo technology",
+        "de": "Kommunikation, Schrift, Medien, Fototechnik"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jtv",
+      "prefLabel": {
+        "en": "Miscellany",
+        "de": "Vermischte Schriften"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

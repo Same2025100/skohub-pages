@@ -13,6 +13,85 @@
       "JN Natur und Mensch"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jnb",
+      "prefLabel": {
+        "en": "Biology",
+        "de": "Biologie"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnc",
+      "prefLabel": {
+        "en": "Chemistry",
+        "de": "Chemie"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jne",
+      "prefLabel": {
+        "en": "Earth, geology, natural disasters",
+        "de": "Erde, Geologie, Naturkatastrophen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnf",
+      "prefLabel": {
+        "en": "Plants",
+        "de": "Pflanzen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnm",
+      "prefLabel": {
+        "en": "Human",
+        "de": "Mensch"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnp",
+      "prefLabel": {
+        "en": "Physics",
+        "de": "Physik"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnr",
+      "prefLabel": {
+        "en": "Methods, experiments",
+        "de": "Methoden, Experimente"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jns",
+      "prefLabel": {
+        "en": "Space, astronomy, space travel",
+        "de": "Weltall, Astronomie, Raumfahrt"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnt",
+      "prefLabel": {
+        "en": "Animals",
+        "de": "Tiere"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jnv",
+      "prefLabel": {
+        "en": "Miscellany",
+        "de": "Vermischte Schriften"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

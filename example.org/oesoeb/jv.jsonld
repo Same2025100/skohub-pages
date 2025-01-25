@@ -13,6 +13,36 @@
       "JV Sonstige Sachthemen"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jvb",
+      "prefLabel": {
+        "en": "Lifeworld, everyday life",
+        "de": "Lebenswelt, Alltag"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jvk",
+      "prefLabel": {
+        "en": "Nutrition, cooking",
+        "de": "Ernährung, Kochen"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jvr",
+      "prefLabel": {
+        "en": "Guide for children and young people",
+        "de": "Ratgeber für Kinder und Jugendliche"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jvs",
+      "prefLabel": {
+        "en": "Language, language games, speaking exercises",
+        "de": "Sprache, Sprachspiele, Sprechübungen"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {
