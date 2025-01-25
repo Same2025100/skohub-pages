@@ -249,6 +249,138 @@ oesoeb:je a skos:Concept ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
 
+oesoeb:jea a skos:Concept ;
+    skos:prefLabel "Anthologien und Vorlesebücher"@de, "Anthologies and reading books"@en ;
+    skos:altLabel "JE.A Anthologien und Vorlesebücher"@de, "JE.A Anthologies and reading books"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jec a skos:Concept ;
+    skos:prefLabel "Erstes Lesealter"@de, "First reading age"@en ;
+    skos:altLabel "JE.C Erstes Lesealter"@de, "JE.C First reading age"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jed a skos:Concept ;
+    skos:prefLabel "Kriminalromane"@de, "Crime novels"@en ;
+    skos:altLabel "JE.D Kriminalromane"@de, "JE.D Crime novels"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jee a skos:Concept ;
+    skos:prefLabel "Vereinfachte Lesetexte für Jugendliche"@de, "Simplified reading texts for young people"@en ;
+    skos:altLabel "JE.E Vereinfachte Lesetexte für Jugendliche"@de, "JE.E Simplified reading texts for young people"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jef a skos:Concept ;
+    skos:prefLabel "Familie"@de, "Family"@en ;
+    skos:altLabel "JE.F Familie"@de, "JE.F Family"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jeg a skos:Concept ;
+    skos:prefLabel "Geschichte"@de, "History"@en ;
+    skos:altLabel "JE.G Geschichte"@de, "JE.G History"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jeh a skos:Concept ;
+    skos:prefLabel "Heitere Romane, Humor und Satiren"@de, "Cheerful novels, humor and satires"@en ;
+    skos:altLabel "JE.H Heitere Romane, Humor und Satiren"@de, "JE.H Cheerful novels, humor and satires"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jei a skos:Concept ;
+    skos:prefLabel "Spielbücher, interaktive Bücher"@de, "Game books, interactive books"@en ;
+    skos:altLabel "JE.I Spielbücher, interaktive Bücher"@de, "JE.I Game books, interactive books"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jej a skos:Concept ;
+    skos:prefLabel "Fantasy"@de, "Fantasy"@en ;
+    skos:altLabel "JE.J Fantasy"@de, "JE.J Fantasy"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jek a skos:Concept ;
+    skos:prefLabel "Kunst, Literatur"@de, "Art, literature"@en ;
+    skos:altLabel "JE.K Kunst, Literatur"@de, "JE.K Art, literature"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jel a skos:Concept ;
+    skos:prefLabel "Liebe"@de, "Love"@en ;
+    skos:altLabel "JE.L Liebe"@de, "JE.L Love"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jem a skos:Concept ;
+    skos:prefLabel "Mystery, Grusel- und Gespenstergeschichten, Hexengeschichten, Magie"@de, "Mystery, scary and ghost stories, witch stories, magic"@en ;
+    skos:altLabel "JE.M Mystery, Grusel- und Gespenstergeschichten, Hexengeschichten, Magie"@de, "JE.M Mystery, scary and ghost stories, witch stories, magic"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jen a skos:Concept ;
+    skos:prefLabel "Naturerlebnisse, Tiergeschichten"@de, "Nature experiences, animal stories"@en ;
+    skos:altLabel "JE.N Naturerlebnisse, Tiergeschichten"@de, "JE.N Nature experiences, animal stories"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jeo a skos:Concept ;
+    skos:prefLabel "Comicromane"@de, "Graphic novels"@en ;
+    skos:altLabel "JE.O Comicromane"@de, "JE.O Graphic novels"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jep a skos:Concept ;
+    skos:prefLabel "Religion, Philosophie"@de, "Religion, philosophy"@en ;
+    skos:altLabel "JE.P Religion, Philosophie"@de, "JE.P Religion, philosophy"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jer a skos:Concept ;
+    skos:prefLabel "Reise, fremde Kulturen"@de, "Travel, foreign cultures"@en ;
+    skos:altLabel "JE.R Reise, fremde Kulturen"@de, "JE.R Travel, foreign cultures"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jes a skos:Concept ;
+    skos:prefLabel "Sport"@de, "Sport"@en ;
+    skos:altLabel "JE.S Sport"@de, "JE.S Sport"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jet a skos:Concept ;
+    skos:prefLabel "Gesellschaft, Psychologie, Krankheit"@de, "Society, psychology, illness"@en ;
+    skos:altLabel "JE.T Gesellschaft, Psychologie, Krankheit"@de, "JE.T Society, psychology, illness"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jeu a skos:Concept ;
+    skos:prefLabel "Utopien, Science-Fiction"@de, "Utopias, science fiction"@en ;
+    skos:altLabel "JE.U Utopien, Science-Fiction"@de, "JE.U Utopias, science fiction"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jev a skos:Concept ;
+    skos:prefLabel "Abenteuergeschichten"@de, "Adventure stories"@en ;
+    skos:altLabel "JE.V Abenteuergeschichten"@de, "JE.V Adventure stories"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jew a skos:Concept ;
+    skos:prefLabel "Witze für Kinder"@de, "Jokes for children"@en ;
+    skos:altLabel "JE.W Witze für Kinder"@de, "JE.W Jokes for children"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
+oesoeb:jex a skos:Concept ;
+    skos:prefLabel "Feste im Jahreslauf"@de, "Festivals throughout the year"@en ;
+    skos:altLabel "JE.X Feste im Jahreslauf"@de, "JE.X Festivals throughout the year"@en ;
+    skos:broader oesoeb:je ;
+    skos:inScheme oesoeb: .
+
 oesoeb:jf a skos:Concept ;
     skos:prefLabel "Fremdsprachige Literatur"@de, "Foreign language literature"@en ;
     skos:altLabel "JF Fremdsprachige Literatur"@de, "JF Foreign language literature"@en ;
