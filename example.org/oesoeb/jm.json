@@ -13,6 +13,22 @@
       "JM Märchen, Sagen"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jmm",
+      "prefLabel": {
+        "en": "Classic fairy tales, fables",
+        "de": "Klassische Märchen, Fabeln"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jms",
+      "prefLabel": {
+        "en": "Sayings, legends",
+        "de": "Sagen, Legenden"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

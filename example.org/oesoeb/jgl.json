@@ -13,6 +13,43 @@
       "JG.L Geschichte einzelner Länder und Kontinente"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jgle",
+      "prefLabel": {
+        "en": "Europe",
+        "de": "Europa"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jglf",
+      "prefLabel": {
+        "en": "Africa",
+        "de": "Afrika"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jglm",
+      "prefLabel": {
+        "en": "America",
+        "de": "Amerika"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jglo",
+      "prefLabel": {
+        "en": "Austria",
+        "de": "Österreich"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgls",
+      "prefLabel": {
+        "en": "Asia, Australia and Oceania",
+        "de": "Asien, Australien und Ozeanien"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/jg",
     "prefLabel": {

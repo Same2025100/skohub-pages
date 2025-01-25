@@ -13,6 +13,15 @@
       "JG.Q Biographien"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jgqo",
+      "prefLabel": {
+        "en": "Austria",
+        "de": "Österreich"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/jg",
     "prefLabel": {

@@ -13,6 +13,57 @@
       "JK Kunst, Literatur"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jkb",
+      "prefLabel": {
+        "en": "Fine arts",
+        "de": "Bildende Kunst"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jke",
+      "prefLabel": {
+        "en": "Architecture",
+        "de": "Architektur"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jkl",
+      "prefLabel": {
+        "en": "Literature",
+        "de": "Literatur"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jkm",
+      "prefLabel": {
+        "en": "Music",
+        "de": "Musik"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jkq",
+      "prefLabel": {
+        "en": "Biographies",
+        "de": "Biographien"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jkt",
+      "prefLabel": {
+        "en": "Performing arts: film, theater, dance, circus",
+        "de": "Darstellende Kunst: Film, Theater, Tanz, Zirkus"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jkv",
+      "prefLabel": {
+        "en": "Miscellany",
+        "de": "Vermischte Schriften"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

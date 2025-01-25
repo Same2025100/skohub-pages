@@ -13,6 +13,22 @@
       "JG.I Gesellschaft, Politik, Wirtschaft"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jgig",
+      "prefLabel": {
+        "en": "Human rights",
+        "de": "Menschenrechte"
+      }
+    },
+    {
+      "id": "https://example.org/oesoeb/jgik",
+      "prefLabel": {
+        "en": "Developing countries",
+        "de": "Entwicklungsländer"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/jg",
     "prefLabel": {
