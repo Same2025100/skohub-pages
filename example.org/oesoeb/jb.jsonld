@@ -13,6 +13,15 @@
       "JB Biografien für Kinder und Jugendliche"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://example.org/oesoeb/jba",
+      "prefLabel": {
+        "en": "General collected biographies from various subject areas",
+        "de": "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

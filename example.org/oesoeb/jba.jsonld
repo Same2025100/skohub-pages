@@ -1,32 +1,23 @@
 {
-  "id": "https://example.org/oesoeb/jb",
+  "id": "https://example.org/oesoeb/jba",
   "type": "Concept",
   "prefLabel": {
-    "en": "Biographies for children and young adults",
-    "de": "Biografien für Kinder und Jugendliche"
+    "en": "General collected biographies from various subject areas",
+    "de": "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"
   },
   "altLabel": {
     "en": [
-      "JB Biographies for children and young adults"
+      "JB.A General collected biographies from various subject areas"
     ],
     "de": [
-      "JB Biografien für Kinder und Jugendliche"
+      "JB.A Allgemeine Sammelbiographien aus verschiedenen Themenbereichen "
     ]
   },
-  "narrower": [
-    {
-      "id": "https://example.org/oesoeb/jba",
-      "prefLabel": {
-        "en": "General collected biographies from various subject areas",
-        "de": "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/oesoeb/j",
+    "id": "https://example.org/oesoeb/jb",
     "prefLabel": {
-      "en": "Children’s and young adult media",
-      "de": "Kinder- und Jugendmedien"
+      "en": "Biographies for children and young adults",
+      "de": "Biografien für Kinder und Jugendliche"
     }
   },
   "inScheme": [
