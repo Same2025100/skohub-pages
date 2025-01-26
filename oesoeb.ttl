@@ -5,9 +5,9 @@
 
 oesoeb: a skos:ConceptScheme ;
     dct:title "Österreichische Systematik Öffentlicher Bibliotheken"@de, "Austrian classification for public libraries"@en ;
-    dct:creator "Hans Dampf"@de ;
-    dct:created "2021-11-02"^^xsd:date ;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dct:creator "Sabrina Müller"@de ;
+    dct:created "2025-01-14"^^xsd:date ;
+    dct:license <http://bartoc.org/en/node/742> ;
     skos:hasTopConcept oesoeb:j .
 
 oesoeb:j a skos:Concept ;
