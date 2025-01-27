@@ -13,6 +13,14 @@
       "JD.F Bilderbücher zum Fremdsprachenerwerb"
     ]
   },
+  "note": {
+    "en": [
+      "Notations from JF will be used as first systematic, as second systematic J will be used"
+    ],
+    "de": [
+      "Die Notationen von JF* werden als Erstsystematik verwendet, als Zweitsystematik erhalten die Medien eine entsprechende J-Systematik"
+    ]
+  },
   "broader": {
     "id": "https://example.org/oesoeb/jd",
     "prefLabel": {

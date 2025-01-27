@@ -13,6 +13,14 @@
       "JD.K Bilderbücher für die Kleinsten"
     ]
   },
+  "note": {
+    "en": [
+      "Very simple stories with little text"
+    ],
+    "de": [
+      "Hier: Sehr einfache Geschichten mit wenig Text"
+    ]
+  },
   "broader": {
     "id": "https://example.org/oesoeb/jd",
     "prefLabel": {

@@ -13,6 +13,14 @@
       "JD.J Sachbilderbücher für Kinder"
     ]
   },
+  "note": {
+    "en": [
+      "Very simple designed non-fiction books for young children"
+    ],
+    "de": [
+      "Hier: Sehr einfach gestaltete Sachbücher für die Jüngsten"
+    ]
+  },
   "narrower": [
     {
       "id": "https://example.org/oesoeb/jdjg",

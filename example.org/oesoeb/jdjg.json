@@ -13,6 +13,14 @@
       "JD.JG Geschichte"
     ]
   },
+  "note": {
+    "en": [
+      "Last update 2012"
+    ],
+    "de": [
+      "Letzte Aktualisierung 2012"
+    ]
+  },
   "broader": {
     "id": "https://example.org/oesoeb/jdj",
     "prefLabel": {

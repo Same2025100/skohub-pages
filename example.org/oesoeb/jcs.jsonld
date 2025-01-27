@@ -13,6 +13,14 @@
       "JC.S Sachcomics"
     ]
   },
+  "note": {
+    "en": [
+      "Depicted Topics found here or in the respective subject-groups"
+    ],
+    "de": [
+      "Als Comics dargestellte Sachinhalte wahlweise hier oder in den einzelnen Sachgruppen"
+    ]
+  },
   "broader": {
     "id": "https://example.org/oesoeb/jc",
     "prefLabel": {

@@ -13,6 +13,14 @@
       "JA Allgemeines"
     ]
   },
+  "note": {
+    "en": [
+      "General and mixed Documents"
+    ],
+    "de": [
+      "Übergreifende und vermischte Schriften"
+    ]
+  },
   "broader": {
     "id": "https://example.org/oesoeb/j",
     "prefLabel": {

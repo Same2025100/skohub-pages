@@ -13,6 +13,14 @@
       "JC Comics und Graphic Novels"
     ]
   },
+  "note": {
+    "en": [
+      "Biographic Graphic Novels listed here or under *Q-Systematics of the J-Section"
+    ],
+    "de": [
+      "Biographische Graphic Novels wahlweise hier oder unter den *Q-Systematiken des J-Bereichs"
+    ]
+  },
   "narrower": [
     {
       "id": "https://example.org/oesoeb/jcc",
