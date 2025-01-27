@@ -19,20 +19,21 @@ oesoeb:ja a skos:Concept ;
     skos:prefLabel "Allgemeines"@de, "General"@en ;
     skos:altLabel "JA Allgemeines"@de, "JA General"@en ;
     skos:broader oesoeb:j ;
+    skos:note "Übergreifende und vermischte Schriften"@de, "General and mixed Documents"@en ;
     skos:inScheme oesoeb: .
-    
+       
 oesoeb:jb a skos:Concept ;
     skos:prefLabel "Biografien für Kinder und Jugendliche"@de, "Biographies for children and young adults"@en ;
     skos:altLabel "JB Biografien für Kinder und Jugendliche"@de, "JB Biographies for children and young adults"@en ;
     skos:broader oesoeb:j ;
-    skos:inScheme oesoeb: .
+    skos:inScheme oesoeb: . 
 
 oesoeb:jba a skos:Concept ;
     skos:prefLabel "Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"@de, "General collected biographies from various subject areas"@en ;
     skos:altLabel "JB.A Allgemeine Sammelbiographien aus verschiedenen Themenbereichen"@de, "JB.A General collected biographies from various subject areas"@en ;
     skos:broader oesoeb:jb ;
     skos:inScheme oesoeb: .
-
+   
 oesoeb:jbsys a skos:Concept ;
     skos:prefLabel "Biografien für Kinder und Jugendliche aus einzelnen Themenbereichen"@de, "Biographies for children and young people from individual subject areas"@en ;
     skos:altLabel "JB.SYS Biografien für Kinder und Jugendliche aus einzelnen Themenbereichen"@de, "JB.SYS Biographies for children and young people from individual subject areas"@en ;
@@ -43,62 +44,71 @@ oesoeb:jc a skos:Concept ;
     skos:prefLabel "Comics und Graphic Novels"@de, "Comics and Graphic novels"@en ;
     skos:altLabel "JC Comics und Graphic Novels"@de, "JC Comics and Graphic Novels"@en ;
     skos:broader oesoeb:j ;
+    skos:note "Biographische Graphic Novels wahlweise hier oder unter den *Q-Systematiken des J-Bereichs"@de, "Biographic Graphic Novels listed here or under *Q-Systematics of the J-Section"@en ;
     skos:inScheme oesoeb: .
-
+    
 oesoeb:jcc a skos:Concept ;
     skos:prefLabel "Comics"@de, "Comics"@en ;
     skos:altLabel "JC.C Comics"@de, "JC.C Comics"@en ;
     skos:broader oesoeb:jc ;
+    skos:note "Letzte Aktualisierung 2019"@de, "Last update 2019"@en ;
     skos:inScheme oesoeb: .
-
+   
 oesoeb:jcg a skos:Concept ;
     skos:prefLabel "Graphic Novels"@de, "Graphic Novels"@en ;
     skos:altLabel "JC.G Graphic Novels"@de, "JC.G Graphic Novels"@en ;
     skos:broader oesoeb:jc ;
+    skos:note "Letzte Aktualisierung 2019"@de, "Last update 2019"@en ;
     skos:inScheme oesoeb: .
-
+   
 oesoeb:jck a skos:Concept ;
     skos:prefLabel "Cartoons, Karikaturen"@de, "Cartoons"@en ;
     skos:altLabel "JC.K Cartoons, Karikaturen"@de, "JC.K Cartoons"@en ;
     skos:broader oesoeb:jc ;
+    skos:note "Letzte Aktualisierung 2019"@de, "Last update 2019"@en ;
     skos:inScheme oesoeb: .
-
+   
 oesoeb:jcm a skos:Concept ;
     skos:prefLabel "Mangas"@de, "Mangas"@en ;
     skos:altLabel "JC.M Mangas"@de, "JC.M Mangas"@en ;
     skos:broader oesoeb:jc ;
+    skos:note "Letzte Aktualisierung 2019"@de, "Last update 2019"@en ;
     skos:inScheme oesoeb: .
-
+    
 oesoeb:jcs a skos:Concept ;
     skos:prefLabel "Sachcomics"@de, "Non-fiction comics"@en ;
     skos:altLabel "JC.S Sachcomics"@de, "JC.S Non-fiction comics"@en ;
     skos:broader oesoeb:jc ;
+    skos:note "Als Comics dargestellte Sachinhalte wahlweise hier oder in den einzelnen Sachgruppen"@de, "Depicted Topics found here or in the respective subject-groups"@en ;
     skos:inScheme oesoeb: .
-
+     
 oesoeb:jd a skos:Concept ;
     skos:prefLabel "Bilderbücher"@de, "Picture  books"@en ;
     skos:altLabel "JD Bilderbücher"@de, "JD Picture books"@en ;
     skos:broader oesoeb:j ;
     skos:inScheme oesoeb: .
-
+    
 oesoeb:jdf a skos:Concept ;
     skos:prefLabel "Bilderbücher zum Fremdsprachenerwerb"@de, "Picture books for foreign language acquisition"@en ;
     skos:altLabel "JD.F Bilderbücher zum Fremdsprachenerwerb"@de, "JD.F Picture books for foreign language acquisition"@en ;
     skos:broader oesoeb:jd ;
+    skos:note "Die Notationen von JF* werden als Erstsystematik verwendet, als Zweitsystematik erhalten die Medien eine entsprechende J-Systematik"@de, "Notations from JF will be used as first systematic, as second systematic J will be used"@en ;
     skos:inScheme oesoeb: .
-
+    
 oesoeb:jdj a skos:Concept ;
     skos:prefLabel "Sachbilderbücher für Kinder"@de, "Non-fiction picture books for children"@en ;
     skos:altLabel "JD.J Sachbilderbücher für Kinder"@de, "JD.J Non-fiction picture books for children"@en ;
     skos:broader oesoeb:jd ;
+    skos:note "Hier: Sehr einfach gestaltete Sachbücher für die Jüngsten"@de, "Very simple designed non-fiction books for young children"@en ;
     skos:inScheme oesoeb: .
-
+   
 oesoeb:jdjg a skos:Concept ;
     skos:prefLabel "Geschichte"@de, "History"@en ;
     skos:altLabel "JD.JG Geschichte"@de, "JD.JG History"@en ;
     skos:broader oesoeb:jdj ;
+    skos:note "Letzte Aktualisierung 2012"@de, "Last update 2012"@en ;
     skos:inScheme oesoeb: .
-
+    
 oesoeb:jdjk a skos:Concept ;
     skos:prefLabel "Kunst, Literatur, Lied, Tanz"@de, "Art, literature, song, dance"@en ;
     skos:altLabel "JD.JK Kunst, Literatur, Lied, Tanz"@de, "JD.JK Art, literature, song, dance"@en ;
@@ -145,8 +155,9 @@ oesoeb:jdk a skos:Concept ;
     skos:prefLabel "Bilderbücher für die Kleinsten"@de, "Picture books for the little ones"@en ;
     skos:altLabel "JD.K Bilderbücher für die Kleinsten"@de, "JD.K Picture books for the little ones"@en ;
     skos:broader oesoeb:jd ;
+     skos:note "Hier: Sehr einfache Geschichten mit wenig Text"@de, "Very simple stories with little text"@en ;
     skos:inScheme oesoeb: .
-
+   
 oesoeb:jdl a skos:Concept ;
     skos:prefLabel "Gedichte, Lieder"@de, "Poems, songs"@en ;
     skos:altLabel "JD.L Gedichte, Lieder"@de, "JD.L Poems, songs"@en ;
