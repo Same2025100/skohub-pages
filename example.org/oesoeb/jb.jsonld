@@ -13,6 +13,11 @@
       "JB Biografien für Kinder und Jugendliche"
     ]
   },
+  "note": {
+    "de": [
+      "Eine Untergliederung der KuJ-Biographien ist entweder über die Untergruppen von JB* möglich oder über die *Q*-Gruppen in den einzelnen J-Gruppen"
+    ]
+  },
   "narrower": [
     {
       "id": "https://example.org/oesoeb/jba",
