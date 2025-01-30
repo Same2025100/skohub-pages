@@ -26,7 +26,7 @@ oesoeb:jb a skos:Concept ;
     skos:prefLabel "Biografien für Kinder und Jugendliche"@de, "Biographies for children and young adults"@en ;
     skos:altLabel "JB Biografien für Kinder und Jugendliche"@de, "JB Biographies for children and young adults"@en ;
     skos:broader oesoeb:j ;
-    skos:note "Eine Untergliederung der KuJ-Biographien ist entweder über die Untergruppen von JB* möglich oder über die *Q*-Gruppen in den einzelnen J-Gruppen"@de, "A subdivision of these Biographys can be made either in JB-subgroups or in the Q-groups within the different J-groups" ;
+    skos:note "Eine Untergliederung der KuJ-Biographien ist entweder über die Untergruppen von JB* möglich oder über die *Q*-Gruppen in den einzelnen J-Gruppen"@de, "A subdivision of these Biographys can be made either in JB-subgroups or in the Q-groups within the different J-groups"@en ;
     skos:inScheme oesoeb: . 
 
 oesoeb:jba a skos:Concept ;
